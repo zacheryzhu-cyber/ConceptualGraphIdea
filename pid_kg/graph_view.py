@@ -424,8 +424,7 @@ function emit(action, payload){
 let lastFlash = null;
 let G = null;                     // the graph on screen: data, network, datasets, selection, edit state
 let showLabels = true, flowOn = null;
-let simple = false;               // simple view: dots and plain lines, to see just what connects to what
-try { simple = localStorage.getItem("pidGraphSimple") === "1"; } catch (_) {}
+let simple = true;                // simple view: dots and plain lines, to see just what connects to what (always the start view; S toggles)
 const PLAIN = "#7c93b0";          // the one link colour in simple view
 const hiddenCat = new Set(), hiddenKind = new Set();
 const t0 = performance.now();
