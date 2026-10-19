@@ -1,0 +1,3 @@
+https://github.com/Azure-Samples/digitization-of-piping-and-instrument-diagrams at commit c51302e3ec34147c676ef6eedbdd7551ea908b05
+Copied: src/app, src/logger_config.py, LICENSE.md (MIT)
+Changed: 'from pydantic import' -> 'from pydantic.v1 import' in 17 files

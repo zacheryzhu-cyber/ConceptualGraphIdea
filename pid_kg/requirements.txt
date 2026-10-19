@@ -1,0 +1,21 @@
+neo4j>=5.8
+pydexpi
+networkx
+pyyaml
+streamlit
+pyvis
+pandas
+# stage 2: PDF / image route (pymupdf and shapely are also used by the PDF drawing check, crosscheck/)
+pymupdf
+rapidocr_onnxruntime
+shapely
+ecs-logging
+fastapi
+matplotlib
+supervision
+rfdetr
+# OpenCV 4.x WITH contrib (cv2.ximgproc.thinning). Install in this order:
+#   pip install "opencv-python==4.10.0.84"
+#   pip install --force-reinstall --no-deps "opencv-contrib-python==4.10.0.84"
+opencv-python==4.10.0.84
+opencv-contrib-python==4.10.0.84
