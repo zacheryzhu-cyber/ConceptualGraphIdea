@@ -148,5 +148,7 @@ model) and the web tabs *Plant*, *Ask* and *Validation*, the manual `links.csv` 
 removed; the CLI above still rebuilds and reports. They are in the Git history before the commit "Simplify start-up".
 
 ## Licences
-- **pyDEXPI** — **AGPL-3.0**. Free to use for this PoC / internal demos, but a **commercial licence from
-  TU Delft** is needed before using it in a closed-source product or a hosted service.
+This project has no licence of its own (proof of concept). The full list of technologies, projects and their licences
+is in section 7 of the [repository README](../README.md). In short: **pyDEXPI** and **PyMuPDF** are **AGPL-3.0**, free
+for this PoC / internal demos, but a commercial licence (TU Delft, Artifex) or AGPL compliance is needed before
+using them in a closed-source product or a hosted service.
