@@ -1,7 +1,7 @@
 {
  "format": "pid-kg-adjacency",
  "version": 1,
- "exported": "2026-10-19T11:51:21",
+ "exported": "2026-10-19T15:20:29",
  "sheet": {
   "sheet": "=P1.H4.FB.001",
   "plant": "Demo Plant",
@@ -11,30 +11,9 @@
   "source": "dexpi",
   "file": "=P1.H4.FB.001 (A3BQHLXCAR)",
   "dexpi": "sources/_P1.H4.FB.001/=P1.H4.FB.001 (A3BQHLXCAR)",
-  "pdf": {
-   "pdfFile": "p1_h4.pdf",
-   "pdfPath": "D:\\PID AGENT\\PID AGENT\\pid_kg\\sources\\_P1.H4.FB.001\\p1_h4.pdf",
-   "pdfDexpiPath": "D:\\PID AGENT\\PID AGENT\\pid_kg\\sources\\_P1.H4.FB.001\\=P1.H4.FB.001 (A3BQHLXCAR)",
-   "pdfChecked": "2026-10-19T11:51:21",
-   "pdfStatus": "ok",
-   "pdfTagScore": 0.6363636363636364,
-   "pdfTagsMatched": 14,
-   "pdfTagsTotal": 22,
-   "pdfWidths": [
-    0.96
-   ],
-   "pdfCalibration": "{\"0\": 0, \"0.28\": 0, \"0.51\": 0, \"0.71\": 26, \"0.96\": 116, \"0.99\": 0, \"1.42\": 23, \"1.98\": 0}",
-   "pdfConfirmed": 34,
-   "pdfDrawnOnly": 2,
-   "pdfNotDrawn": 0,
-   "pdfAlreadyLinked": 2,
-   "pdfRejectedSkipped": 0,
-   "pdfUnmapped": 0,
-   "pdfDrawnOnlyPairs": "[[\"TAG:=P1.H4.T1P002\", \"TAG:=P1.H4.T1.P009.001R001\"], [\"TAG:=P1.H4.T1P002\", \"TAG:=P1.H4.T1.P008.001R002\"]]",
-   "pdfNotDrawnPairs": "[]"
-  },
-  "pdfName": "p1_h4.pdf",
-  "loaded": "2026-10-19T11:51:20",
+  "pdf": null,
+  "pdfName": null,
+  "loaded": "2026-10-19T15:20:28",
   "issues": [
    "off-page arrow XMP_A3BQHOJUAR has no line number; add it to links.csv",
    "off-page arrow XMP_A3BQHOJSAR has no line number; add it to links.csv",
@@ -2616,7 +2595,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "dexpiType": "Pipe",
      "lineNumber": "P006",
      "proteusId": "XMP_453",
@@ -2633,7 +2612,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "proteusId": "XMP_468",
      "dexpiType": "Pipe",
      "line": "=P1.H4.T1.P010",
@@ -2649,7 +2628,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "proteusId": "XMP_462",
      "dexpiType": "Pipe",
      "line": "=P1.H4.T1.P008",
@@ -2665,7 +2644,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "dexpiType": "Pipe",
      "proteusId": "XMP_468",
      "line": "=P1.H4.T1.P010",
@@ -2752,7 +2731,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "dexpiType": "Pipe",
      "proteusId": "XMP_585",
      "line": "=P1.H3.T2.P007",
@@ -2783,14 +2762,13 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "dexpiType": "Pipe",
      "inferred": "drawn touching",
      "proteusId": "XMP_462",
      "lineNumber": "P008",
      "line": "=P1.H4.T1.P008",
-     "sheet": "=P1.H4.FB.001",
-     "pdfNote": "drawn; not on a DEXPI pipe segment, already linked by the loader"
+     "sheet": "=P1.H4.FB.001"
     }
    }
   ],
@@ -2802,7 +2780,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "proteusId": "XMP_468",
      "dexpiType": "Pipe",
      "line": "=P1.H4.T1.P010",
@@ -2818,7 +2796,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "proteusId": "XMP_432",
      "dexpiType": "Pipe",
      "line": "=P1.H4.T1.P014",
@@ -2832,7 +2810,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "proteusId": "XMP_423",
      "dexpiType": "Pipe",
      "line": "=P1.H4.T1.P013",
@@ -2848,7 +2826,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "proteusId": "XMP_501",
      "dexpiType": "Pipe",
      "line": "=P1.H4.T3.P017",
@@ -2949,7 +2927,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "dexpiType": "Pipe",
      "proteusId": "XMP_453",
      "line": "=P1.H4.T1.P006",
@@ -2993,12 +2971,11 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "dexpiType": "Pipe",
      "inferred": "drawn touching",
      "proteusId": "XMP_729",
-     "sheet": "=P1.H4.FB.001",
-     "pdfNote": "drawn; not on a DEXPI pipe segment, already linked by the loader"
+     "sheet": "=P1.H4.FB.001"
     }
    }
   ],
@@ -3125,7 +3102,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "proteusId": "XMP_441",
      "dexpiType": "Pipe",
      "line": "=P1.H4.T1.P015",
@@ -3141,7 +3118,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "proteusId": "XMP_414",
      "dexpiType": "Pipe",
      "line": "=P1.H4.T1.P018",
@@ -3157,7 +3134,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "proteusId": "XMP_432",
      "dexpiType": "Pipe",
      "line": "=P1.H4.T1.P014",
@@ -3173,7 +3150,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "proteusId": "XMP_441",
      "dexpiType": "Pipe",
      "line": "=P1.H4.T1.P015",
@@ -3189,7 +3166,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "proteusId": "XMP_423",
      "dexpiType": "Pipe",
      "line": "=P1.H4.T1.P013",
@@ -3205,7 +3182,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "proteusId": "XMP_414",
      "dexpiType": "Pipe",
      "line": "=P1.H4.T1.P018",
@@ -3221,7 +3198,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "proteusId": "XMP_507",
      "dexpiType": "Pipe",
      "line": "=P1.H4.T3.P018",
@@ -3237,7 +3214,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "proteusId": "XMP_507",
      "dexpiType": "Pipe",
      "line": "=P1.H4.T3.P018",
@@ -3253,7 +3230,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "proteusId": "XMP_507",
      "dexpiType": "Pipe",
      "line": "=P1.H4.T3.P018",
@@ -3269,7 +3246,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "proteusId": "XMP_528",
      "dexpiType": "Pipe",
      "line": "=P1.H4.T1.P017",
@@ -3287,7 +3264,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "proteusId": "XMP_489",
      "dexpiType": "Pipe",
      "line": "=P1.H4.T3.P015",
@@ -3303,7 +3280,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "proteusId": "XMP_561",
      "dexpiType": "Pipe",
      "line": "=P1.H4.T3.P025",
@@ -3321,7 +3298,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "proteusId": "XMP_507",
      "dexpiType": "Pipe",
      "line": "=P1.H4.T3.P018",
@@ -3335,7 +3312,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "proteusId": "XMP_528",
      "dexpiType": "Pipe",
      "line": "=P1.H4.T1.P017",
@@ -3351,7 +3328,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "dexpiType": "Pipe",
      "proteusId": "XMP_522",
      "line": "=P1.H4.T3.P019",
@@ -3469,7 +3446,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "dexpiType": "Pipe",
      "proteusId": "XMP_549",
      "line": "=P1.H4.T3.P022",
@@ -3485,7 +3462,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "proteusId": "XMP_462",
      "dexpiType": "Pipe",
      "line": "=P1.H4.T1.P008",
@@ -3514,7 +3491,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "proteusId": "XMP_441",
      "dexpiType": "Pipe",
      "line": "=P1.H4.T1.P015",
@@ -3543,7 +3520,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "proteusId": "XMP_414",
      "dexpiType": "Pipe",
      "line": "=P1.H4.T1.P018",
@@ -3559,7 +3536,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "dexpiType": "Pipe",
      "lineNumber": "P024",
      "proteusId": "XMP_555",
@@ -3574,7 +3551,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "dexpiType": "Pipe",
      "proteusId": "XMP_543",
      "line": "=P1.H4.T3.P021",
@@ -3590,7 +3567,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "dexpiType": "Pipe",
      "lineNumber": "P016",
      "proteusId": "XMP_495",
@@ -3605,7 +3582,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "dexpiType": "Pipe",
      "proteusId": "XMP_483",
      "line": "=P1.H4.T3.P014",
@@ -3621,7 +3598,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "dexpiType": "Pipe",
      "proteusId": "XMP_537",
      "line": "=P1.H4.T3.P020",
@@ -3635,7 +3612,7 @@
     "properties": {
      "source": null,
      "status": null,
-     "pdfCheck": "confirmed",
+     "pdfCheck": null,
      "dexpiType": "Pipe",
      "proteusId": "XMP_477",
      "line": "=P1.H4.T3.P013",
