@@ -1,0 +1,13 @@
+sheet,check,item,detail
+=P1.H3.FB.001,load,,"open pipe end (end of segment XMP_1011) at x=650, y=274: nothing drawn there; if the line continues on another sheet, add an off-page arrow or a links.csv row"
+=P1.H3.FB.001,load,,"open pipe end (start of segment XMP_1038) at x=80, y=414: nothing drawn there; if the line continues on another sheet, add an off-page arrow or a links.csv row"
+=P1.H4.FB.001,load,,off-page arrow XMP_A3BQHOJUAR has no line number; add it to links.csv
+=P1.H4.FB.001,load,,off-page arrow XMP_A3BQHOJSAR has no line number; add it to links.csv
+=P1.H4.FB.001,load,,off-page arrow XMP_A3BQHOJYAR has no line number; add it to links.csv
+=P1.H4.FB.001,load,,off-page arrow XMP_A3BQHOITAR has no line number; add it to links.csv
+=P1.H4.FB.001,load,,"open pipe end (end of segment XMP_573) at x=257.5, y=316.5: nothing drawn there; if the line continues on another sheet, add an off-page arrow or a links.csv row"
+=P1.H4.FB.001,load,,"open pipe end (start of segment XMP_579) at x=40, y=409: nothing drawn there; if the line continues on another sheet, add an off-page arrow or a links.csv row"
+,unresolved off-page arrow,002,line ? not found on any other loaded sheet
+,unresolved off-page arrow,003 (P1.H4.T3.P015),line ? not found on any other loaded sheet
+,unresolved off-page arrow,003 (P1.H4.T3.P016),line ? not found on any other loaded sheet
+,unresolved off-page arrow,004,line ? not found on any other loaded sheet

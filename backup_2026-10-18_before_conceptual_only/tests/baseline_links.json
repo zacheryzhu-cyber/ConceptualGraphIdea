@@ -1,0 +1,18 @@
+{
+  "_about": "Links per DEXPI 1.3 file from parse_sheet before the dexpi_links pass (2026-10-17). tests/test_generality.py checks every DEXPI 1.3 file still loads and yields at least this many.",
+  "links": {
+    "../=P1.H3.FB.001 (A3BQHLXDAR)": 41,
+    "../=P1.H4.FB.001 (A3BQHLXCAR)": 68,
+    "C01V04-VER.EX01.xml": 39,
+    "test_sheets/sheet_A.xml": 39,
+    "test_sheets/sheet_B.xml": 39,
+    "test_sheets/sheet_C.xml": 39,
+    "uploads/C01V04-VER.EX01.xml": 39,
+    "uploads/C03V04-VER.EX02.xml": 11,
+    "uploads/C03V04-VER.EX02 (1).xml": 11,
+    "uploads/sth.xml": 100,
+    "uploads/=P002.A13.FB.001 (A4S1A2Y1M7)": 100,
+    "uploads/=P1.H3.FB.001 (A3BQHLXDAR)": 41,
+    "uploads/=P1.H4.FB.001 (A3BQHLXCAR)": 68
+  }
+}

@@ -1,0 +1,184 @@
+{
+ "sheet": "check_C01V01-HEX.EX02",
+ "file": "C01V01-HEX.EX02.pdf",
+ "text_source": "ocr",
+ "symbols_found": 17,
+ "line_segments": 620,
+ "assets": [
+  {
+   "uid": "TAG:T4750",
+   "name": "T4750",
+   "type": "Fromtag",
+   "category": "Equipment",
+   "tagged": true,
+   "source": "pdf",
+   "symbolLabel": "Equipment/From tag",
+   "box": [
+    1613,
+    709,
+    2139,
+    1536
+   ]
+  },
+  {
+   "uid": "TAG:H1007",
+   "name": "H1007",
+   "type": "Fromtag",
+   "category": "Equipment",
+   "tagged": true,
+   "source": "pdf",
+   "symbolLabel": "Equipment/From tag",
+   "box": [
+    3090,
+    1421,
+    3509,
+    1539
+   ]
+  },
+  {
+   "uid": "TAG:P4712",
+   "name": "P4712",
+   "type": "Fromtag",
+   "category": "Equipment",
+   "tagged": true,
+   "source": "pdf",
+   "symbolLabel": "Equipment/From tag",
+   "box": [
+    789,
+    1751,
+    890,
+    1910
+   ]
+  },
+  {
+   "uid": "TAG:P4711",
+   "name": "P4711",
+   "type": "Fromtag",
+   "category": "Equipment",
+   "tagged": true,
+   "source": "pdf",
+   "symbolLabel": "Equipment/From tag",
+   "box": [
+    2566,
+    1751,
+    2658,
+    1911
+   ]
+  },
+  {
+   "uid": "TAG:H1008",
+   "name": "H1008",
+   "type": "Fromtag",
+   "category": "Equipment",
+   "tagged": true,
+   "source": "pdf",
+   "symbolLabel": "Equipment/From tag",
+   "box": [
+    1159,
+    1600,
+    1270,
+    1997
+   ]
+  },
+  {
+   "uid": "check_C01V01-HEX.EX02::pdf-6",
+   "name": "P = 6.0 barg",
+   "type": "Sightglass",
+   "category": "Instrumentation",
+   "tagged": false,
+   "source": "pdf",
+   "symbolLabel": "Instrument/Indicator/Sight glass",
+   "box": [
+    2791,
+    911,
+    2826,
+    948
+   ]
+  },
+  {
+   "uid": "check_C01V01-HEX.EX02::pdf-8",
+   "name": ".00SL7.",
+   "type": "Rotaryvalve",
+   "category": "Piping",
+   "tagged": false,
+   "source": "pdf",
+   "symbolLabel": "Instrument/Valve/Rotary valve",
+   "box": [
+    1366,
+    1432,
+    1435,
+    1469
+   ]
+  },
+  {
+   "uid": "check_C01V01-HEX.EX02::pdf-13",
+   "name": "%1C8",
+   "type": "Checkvalve",
+   "category": "Piping",
+   "tagged": false,
+   "source": "pdf",
+   "symbolLabel": "Instrument/Valve/Check valve",
+   "box": [
+    2184,
+    1854,
+    2219,
+    1876
+   ]
+  }
+ ],
+ "edges": [
+  {
+   "src": "TAG:P4712",
+   "dst": "TAG:H1008",
+   "rel": "PIPE",
+   "direction": "unknown",
+   "props": {
+    "dexpiType": "Line (from PDF)",
+    "source": "pdf"
+   }
+  },
+  {
+   "src": "check_C01V01-HEX.EX02::pdf-13",
+   "dst": "TAG:P4711",
+   "rel": "PIPE",
+   "direction": "unknown",
+   "props": {
+    "dexpiType": "Line (from PDF)",
+    "source": "pdf"
+   }
+  },
+  {
+   "src": "check_C01V01-HEX.EX02::pdf-13",
+   "dst": "TAG:T4750",
+   "rel": "PIPE",
+   "direction": "unknown",
+   "props": {
+    "dexpiType": "Line (from PDF)",
+    "source": "pdf"
+   }
+  },
+  {
+   "src": "check_C01V01-HEX.EX02::pdf-6",
+   "dst": "TAG:P4711",
+   "rel": "PIPE",
+   "direction": "unknown",
+   "props": {
+    "dexpiType": "Line (from PDF)",
+    "source": "pdf"
+   }
+  },
+  {
+   "src": "check_C01V01-HEX.EX02::pdf-8",
+   "dst": "TAG:T4750",
+   "rel": "PIPE",
+   "direction": "unknown",
+   "props": {
+    "dexpiType": "Line (from PDF)",
+    "source": "pdf"
+   }
+  }
+ ],
+ "issues": [
+  "from PDF (ocr); all items need review"
+ ]
+}

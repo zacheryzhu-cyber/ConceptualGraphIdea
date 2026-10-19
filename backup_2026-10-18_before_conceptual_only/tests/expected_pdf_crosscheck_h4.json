@@ -1,0 +1,21 @@
+{
+  "_about": "Expected results of the PDF drawing check (crosscheck/) on the COMOS sheet =P1.H4.FB.001 and its vector PDF (tests/test_pdf_crosscheck.py). Data only: the module knows none of these tags, sizes or files.",
+  "sheets": {
+    "=P1.H3.FB.001": "../=P1.H3.FB.001 (A3BQHLXDAR)",
+    "=P1.H4.FB.001": "../=P1.H4.FB.001 (A3BQHLXCAR)"
+  },
+  "sheet": "=P1.H4.FB.001",
+  "pdf": "../p1_h4.pdf",
+  "tag_score": {"min": 0.5, "about": 0.64, "tolerance": 0.02},
+  "pipe_widths": [0.96],
+  "calibration": {"0.96": 116, "0.71": 26, "1.42": 23},
+  "counts": {"confirmed": 34, "drawn_only": 2, "dexpi_only": 0},
+  "drawn_only": [["=P1.H4.T1P002", "=P1.H4.T1.P008.001R002"], ["=P1.H4.T1P002", "=P1.H4.T1.P009.001R001"]],
+  "_drawn_only_already_linked": "proteus_topology step 2b (fittings drawn straight onto another item) already links both pairs, so loading the files as they are makes no candidates",
+  "drawn_only_already_linked": 2,
+  "wrong_pairing": {"sheet": "=P1.H3.FB.001", "dexpi": "../=P1.H3.FB.001 (A3BQHLXDAR)", "message": "does not match"},
+  "pairing": {"pdfs": ["p1_h4.pdf"], "expected": {"=P1.H4.FB.001": "p1_h4.pdf", "=P1.H3.FB.001": ""}},
+  "islands_without_candidates": 3,
+  "split_by_candidates": ["TAG:=P1.H4.T3F001", "TAG:=P1.H4.T3k001"],
+  "conceptual_after_approval": [["TAG:=P1.H4.T3F001", "TAG:=P1.H4.T1P002"], ["TAG:=P1.H4.T1P002", "TAG:=P1.H4.T3k001"]]
+}

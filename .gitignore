@@ -1,32 +1,7 @@
-# environments / caches
+# environments / caches (not needed by a colleague: they recreate the venv from requirements.txt)
 .venv/
 .venv_old_broken/
 __pycache__/
 *.pyc
 .pytest_cache/
 .claude/settings.local.json
-
-# secrets: Neo4j Aura credentials (copy neo4j_demo.env.example to neo4j_demo.env and fill in)
-neo4j_demo.env
-.env
-
-# data written by the app / plant drawings (may be proprietary)
-pid_kg/uploads/
-pid_kg/sources/
-pid_kg/snapshots/
-pid_kg/output/
-pid_kg/pdf_output/
-pid_kg/test_pdf/
-pid_kg_test_data/
-backup_*/
-neo4j_backup_*.json
-
-# plant drawings at the repo root (COMOS exports and PDFs)
-/=*
-/*.pdf
-/FB.001*.XML
-
-# large / trained files (model weights are over GitHub's 100 MB limit)
-*.pth
-pid_kg/training/dataset/
-pid_kg/training/dataset.zip

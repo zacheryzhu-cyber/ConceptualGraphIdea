@@ -1,0 +1,3472 @@
+{
+ "nodes": [
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:0",
+   "labels": [
+    "Equipment",
+    "Tank"
+   ],
+   "props": {
+    "name": "Raw Water / Feed Tank",
+    "id": "UPW-TK-01",
+    "type": "Tank"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:1",
+   "labels": [
+    "Equipment",
+    "Pump"
+   ],
+   "props": {
+    "name": "Raw Water Feed Pump 01",
+    "id": "UPW-P-01",
+    "type": "Pump"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:2",
+   "labels": [
+    "Equipment",
+    "Pump"
+   ],
+   "props": {
+    "name": "Raw Water Feed Pump 02",
+    "id": "UPW-P-02",
+    "type": "Pump"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:3",
+   "labels": [
+    "Equipment",
+    "Filter"
+   ],
+   "props": {
+    "name": "Multi-Media Filter Bank",
+    "id": "MMF",
+    "type": "Filter"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:4",
+   "labels": [
+    "Equipment",
+    "CationExchanger"
+   ],
+   "props": {
+    "name": "Strong Acid Cation Exchanger 0911",
+    "id": "SAC-0911",
+    "type": "CationExchanger"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:5",
+   "labels": [
+    "Equipment",
+    "CationExchanger"
+   ],
+   "props": {
+    "name": "Strong Acid Cation Exchanger 0912",
+    "id": "SAC-0912",
+    "type": "CationExchanger"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:6",
+   "labels": [
+    "Equipment",
+    "CationExchanger"
+   ],
+   "props": {
+    "name": "Strong Acid Cation Exchanger 0913",
+    "id": "SAC-0913",
+    "type": "CationExchanger"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:7",
+   "labels": [
+    "Equipment",
+    "CationExchanger"
+   ],
+   "props": {
+    "name": "Strong Acid Cation Exchanger 0914",
+    "id": "SAC-0914",
+    "type": "CationExchanger"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:8",
+   "labels": [
+    "Equipment",
+    "ChemicalStorage"
+   ],
+   "props": {
+    "name": "Cation Regeneration Acid Storage System",
+    "id": "S-091",
+    "type": "ChemicalStorage"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:9",
+   "labels": [
+    "Equipment",
+    "Pump"
+   ],
+   "props": {
+    "name": "Cation Regeneration Pump",
+    "id": "S-121",
+    "type": "Pump"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:10",
+   "labels": [
+    "Equipment",
+    "Tank"
+   ],
+   "props": {
+    "name": "Pre-Treated Water Storage Tank 1011",
+    "id": "T-1011",
+    "type": "Tank"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:11",
+   "labels": [
+    "Equipment",
+    "Tank"
+   ],
+   "props": {
+    "name": "Pre-Treated Water Storage Tank 1012",
+    "id": "T-1012",
+    "type": "Tank"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:12",
+   "labels": [
+    "Equipment",
+    "Pump"
+   ],
+   "props": {
+    "name": "Pre-Treated Water Transfer Pump",
+    "id": "S-111",
+    "type": "Pump"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:13",
+   "labels": [
+    "Equipment",
+    "ChemicalDosing"
+   ],
+   "props": {
+    "name": "Bisulfite Injection System",
+    "id": "S-131",
+    "type": "ChemicalDosing"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:14",
+   "labels": [
+    "Equipment",
+    "ChemicalDosing"
+   ],
+   "props": {
+    "name": "Caustic Injection System",
+    "id": "S-0511",
+    "type": "ChemicalDosing"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:15",
+   "labels": [
+    "Equipment",
+    "Filter"
+   ],
+   "props": {
+    "name": "Pretreatment Filter 01",
+    "id": "UPW-F-01",
+    "type": "Filter"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:16",
+   "labels": [
+    "Equipment",
+    "Filter"
+   ],
+   "props": {
+    "name": "Pretreatment Filter 02",
+    "id": "UPW-F-02",
+    "type": "Filter"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:17",
+   "labels": [
+    "Equipment",
+    "RO"
+   ],
+   "props": {
+    "name": "Reverse Osmosis Train 01",
+    "id": "UPW-RO-01",
+    "type": "RO"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:18",
+   "labels": [
+    "Equipment",
+    "RO"
+   ],
+   "props": {
+    "name": "Reverse Osmosis Train 02",
+    "id": "UPW-RO-02",
+    "type": "RO"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:19",
+   "labels": [
+    "Equipment",
+    "Tank"
+   ],
+   "props": {
+    "name": "RO Product Storage Tank",
+    "id": "T-2511",
+    "type": "Tank"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:20",
+   "labels": [
+    "Equipment",
+    "Tank"
+   ],
+   "props": {
+    "name": "RO Reject Storage Tank",
+    "id": "T-200",
+    "type": "Tank"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:21",
+   "labels": [
+    "Equipment",
+    "DrainDestination"
+   ],
+   "props": {
+    "name": "Waste Drain Destination",
+    "id": "WASTE",
+    "type": "DrainDestination"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:22",
+   "labels": [
+    "Equipment",
+    "Tank"
+   ],
+   "props": {
+    "name": "RO Permeate Tank",
+    "id": "UPW-TK-02",
+    "type": "Tank"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:23",
+   "labels": [
+    "Equipment",
+    "EDI"
+   ],
+   "props": {
+    "name": "Electrodeionization Train 01",
+    "id": "UPW-EDI-01",
+    "type": "EDI"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:24",
+   "labels": [
+    "Equipment",
+    "EDI"
+   ],
+   "props": {
+    "name": "Electrodeionization Train 02",
+    "id": "UPW-EDI-02",
+    "type": "EDI"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:25",
+   "labels": [
+    "Equipment",
+    "MixedBedPolisher"
+   ],
+   "props": {
+    "name": "Primary Mixed Bed Polisher 3411",
+    "id": "MB-3411",
+    "type": "MixedBedPolisher"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:26",
+   "labels": [
+    "Equipment",
+    "Tank"
+   ],
+   "props": {
+    "name": "UPW Storage Tank",
+    "id": "UPW-TK-03",
+    "type": "Tank"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:27",
+   "labels": [
+    "Equipment",
+    "Pump"
+   ],
+   "props": {
+    "name": "UPW Circulation Pump 03",
+    "id": "UPW-P-03",
+    "type": "Pump"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:28",
+   "labels": [
+    "Equipment",
+    "Pump"
+   ],
+   "props": {
+    "name": "UPW Circulation Pump 04",
+    "id": "UPW-P-04",
+    "type": "Pump"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:29",
+   "labels": [
+    "Equipment",
+    "Header"
+   ],
+   "props": {
+    "name": "Main UPW Distribution Header",
+    "id": "UPW-HDR-01",
+    "type": "Header"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:30",
+   "labels": [
+    "Equipment",
+    "DistributionLoop"
+   ],
+   "props": {
+    "name": "UPW Distribution Loop A",
+    "id": "UPW-LOOP-A",
+    "type": "DistributionLoop"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:31",
+   "labels": [
+    "Equipment",
+    "DistributionLoop"
+   ],
+   "props": {
+    "name": "UPW Distribution Loop B",
+    "id": "UPW-LOOP-B",
+    "type": "DistributionLoop"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:32",
+   "labels": [
+    "Equipment",
+    "DistributionLoop"
+   ],
+   "props": {
+    "name": "UPW Distribution Loop C",
+    "id": "UPW-LOOP-C",
+    "type": "DistributionLoop"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:33",
+   "labels": [
+    "Equipment",
+    "POU"
+   ],
+   "props": {
+    "name": "Point of Use A01",
+    "id": "UPW-POU-01",
+    "type": "POU"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:34",
+   "labels": [
+    "Equipment",
+    "POU"
+   ],
+   "props": {
+    "name": "Point of Use A02",
+    "id": "UPW-POU-02",
+    "type": "POU"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:35",
+   "labels": [
+    "Equipment",
+    "POU"
+   ],
+   "props": {
+    "name": "Point of Use B01",
+    "id": "UPW-POU-03",
+    "type": "POU"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:36",
+   "labels": [
+    "Equipment",
+    "POU"
+   ],
+   "props": {
+    "name": "Point of Use B02",
+    "id": "UPW-POU-04",
+    "type": "POU"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:37",
+   "labels": [
+    "Equipment",
+    "POU"
+   ],
+   "props": {
+    "name": "Point of Use C01",
+    "id": "UPW-POU-05",
+    "type": "POU"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:38",
+   "labels": [
+    "Equipment",
+    "POU"
+   ],
+   "props": {
+    "name": "Point of Use C02",
+    "id": "UPW-POU-06",
+    "type": "POU"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:39",
+   "labels": [
+    "Equipment",
+    "CoolingTower"
+   ],
+   "props": {
+    "name": "Cooling Tower 01",
+    "id": "CHW-CT-01",
+    "type": "CoolingTower"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:40",
+   "labels": [
+    "Equipment",
+    "CoolingTower"
+   ],
+   "props": {
+    "name": "Cooling Tower 02",
+    "id": "CHW-CT-02",
+    "type": "CoolingTower"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:41",
+   "labels": [
+    "Equipment",
+    "CoolingTower"
+   ],
+   "props": {
+    "name": "Cooling Tower 03",
+    "id": "CHW-CT-03",
+    "type": "CoolingTower"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:42",
+   "labels": [
+    "Equipment",
+    "CoolingTower"
+   ],
+   "props": {
+    "name": "Cooling Tower 04",
+    "id": "CHW-CT-04",
+    "type": "CoolingTower"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:43",
+   "labels": [
+    "Equipment",
+    "CondenserWaterPump"
+   ],
+   "props": {
+    "name": "Condenser Water Pump 01",
+    "id": "CHW-P-01",
+    "type": "CondenserWaterPump"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:44",
+   "labels": [
+    "Equipment",
+    "CondenserWaterPump"
+   ],
+   "props": {
+    "name": "Condenser Water Pump 02",
+    "id": "CHW-P-02",
+    "type": "CondenserWaterPump"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:45",
+   "labels": [
+    "Equipment",
+    "CondenserWaterPump"
+   ],
+   "props": {
+    "name": "Condenser Water Pump 03",
+    "id": "CHW-P-03",
+    "type": "CondenserWaterPump"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:46",
+   "labels": [
+    "Equipment",
+    "CondenserWaterPump"
+   ],
+   "props": {
+    "name": "Condenser Water Pump 04",
+    "id": "CHW-P-04",
+    "type": "CondenserWaterPump"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:47",
+   "labels": [
+    "Equipment",
+    "Chiller"
+   ],
+   "props": {
+    "name": "Chiller 01",
+    "id": "CHW-CH-01",
+    "type": "Chiller"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:48",
+   "labels": [
+    "Equipment",
+    "Chiller"
+   ],
+   "props": {
+    "name": "Chiller 02",
+    "id": "CHW-CH-02",
+    "type": "Chiller"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:49",
+   "labels": [
+    "Equipment",
+    "Chiller"
+   ],
+   "props": {
+    "name": "Chiller 03",
+    "id": "CHW-CH-03",
+    "type": "Chiller"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:50",
+   "labels": [
+    "Equipment",
+    "Chiller"
+   ],
+   "props": {
+    "name": "Chiller 04",
+    "id": "CHW-CH-04",
+    "type": "Chiller"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:51",
+   "labels": [
+    "Equipment",
+    "CHWPump"
+   ],
+   "props": {
+    "name": "Chilled Water Pump 05",
+    "id": "CHW-P-05",
+    "type": "CHWPump"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:52",
+   "labels": [
+    "Equipment",
+    "CHWPump"
+   ],
+   "props": {
+    "name": "Chilled Water Pump 06",
+    "id": "CHW-P-06",
+    "type": "CHWPump"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:53",
+   "labels": [
+    "Equipment",
+    "CHWPump"
+   ],
+   "props": {
+    "name": "Chilled Water Pump 07",
+    "id": "CHW-P-07",
+    "type": "CHWPump"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:54",
+   "labels": [
+    "Equipment",
+    "CHWPump"
+   ],
+   "props": {
+    "name": "Chilled Water Pump 08",
+    "id": "CHW-P-08",
+    "type": "CHWPump"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:55",
+   "labels": [
+    "Equipment",
+    "Header"
+   ],
+   "props": {
+    "name": "Main CHW Distribution Header",
+    "id": "CHW-HDR-01",
+    "type": "Header"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:56",
+   "labels": [
+    "Equipment",
+    "DistributionZone"
+   ],
+   "props": {
+    "name": "CHW Distribution Zone A",
+    "id": "CHW-ZONE-A",
+    "type": "DistributionZone"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:57",
+   "labels": [
+    "Equipment",
+    "DistributionZone"
+   ],
+   "props": {
+    "name": "CHW Distribution Zone B",
+    "id": "CHW-ZONE-B",
+    "type": "DistributionZone"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:58",
+   "labels": [
+    "Equipment",
+    "DistributionZone"
+   ],
+   "props": {
+    "name": "CHW Distribution Zone C",
+    "id": "CHW-ZONE-C",
+    "type": "DistributionZone"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:59",
+   "labels": [
+    "Equipment",
+    "CoolingLoad"
+   ],
+   "props": {
+    "name": "Cleanroom/AHU Cooling Load A",
+    "id": "CHW-AHU-01",
+    "type": "CoolingLoad"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:60",
+   "labels": [
+    "Equipment",
+    "CoolingLoad"
+   ],
+   "props": {
+    "name": "Cleanroom/AHU Cooling Load B",
+    "id": "CHW-AHU-02",
+    "type": "CoolingLoad"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:61",
+   "labels": [
+    "Equipment",
+    "CoolingLoad"
+   ],
+   "props": {
+    "name": "Cleanroom/AHU Cooling Load C",
+    "id": "CHW-AHU-03",
+    "type": "CoolingLoad"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:62",
+   "labels": [
+    "Equipment",
+    "HeatExchanger"
+   ],
+   "props": {
+    "name": "Process Cooling HX 01",
+    "id": "CHW-HX-01",
+    "type": "HeatExchanger"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:63",
+   "labels": [
+    "Equipment",
+    "HeatExchanger"
+   ],
+   "props": {
+    "name": "Process Cooling HX 02",
+    "id": "CHW-HX-02",
+    "type": "HeatExchanger"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:64",
+   "labels": [
+    "Equipment",
+    "HeatExchanger"
+   ],
+   "props": {
+    "name": "Process Cooling HX 03",
+    "id": "CHW-HX-03",
+    "type": "HeatExchanger"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:65",
+   "labels": [
+    "Equipment",
+    "ProcessTool"
+   ],
+   "props": {
+    "name": "CMP Tool 01",
+    "id": "TOOL-CMP-01",
+    "type": "ProcessTool"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:66",
+   "labels": [
+    "Equipment",
+    "ProcessTool"
+   ],
+   "props": {
+    "name": "CMP Tool 02",
+    "id": "TOOL-CMP-02",
+    "type": "ProcessTool"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:67",
+   "labels": [
+    "Equipment",
+    "ProcessTool"
+   ],
+   "props": {
+    "name": "Wet Clean Tool 01",
+    "id": "TOOL-WC-01",
+    "type": "ProcessTool"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:68",
+   "labels": [
+    "Equipment",
+    "ProcessTool"
+   ],
+   "props": {
+    "name": "Wet Clean Tool 02",
+    "id": "TOOL-WC-02",
+    "type": "ProcessTool"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:69",
+   "labels": [
+    "Equipment",
+    "ProcessTool"
+   ],
+   "props": {
+    "name": "Etch Tool 01",
+    "id": "TOOL-ETCH-01",
+    "type": "ProcessTool"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:70",
+   "labels": [
+    "Equipment",
+    "ProcessTool"
+   ],
+   "props": {
+    "name": "Etch Tool 02",
+    "id": "TOOL-ETCH-02",
+    "type": "ProcessTool"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:71",
+   "labels": [
+    "Equipment",
+    "ProcessTool"
+   ],
+   "props": {
+    "name": "Deposition Tool 01",
+    "id": "TOOL-DEP-01",
+    "type": "ProcessTool"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:72",
+   "labels": [
+    "Equipment",
+    "ProcessTool"
+   ],
+   "props": {
+    "name": "Lithography Tool 01",
+    "id": "TOOL-LITHO-01",
+    "type": "ProcessTool"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:73",
+   "labels": [
+    "Equipment",
+    "ProcessTool"
+   ],
+   "props": {
+    "name": "Metrology / Inspection Tool 01",
+    "id": "TOOL-MET-01",
+    "type": "ProcessTool"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:74",
+   "labels": [
+    "Equipment",
+    "Transformer"
+   ],
+   "props": {
+    "name": "Utility Transformer 01",
+    "id": "TX-01",
+    "type": "Transformer"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:75",
+   "labels": [
+    "Equipment",
+    "Transformer"
+   ],
+   "props": {
+    "name": "Utility Transformer 02",
+    "id": "TX-02",
+    "type": "Transformer"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:76",
+   "labels": [
+    "Equipment",
+    "MCC"
+   ],
+   "props": {
+    "name": "Motor Control Center 01",
+    "id": "MCC-01",
+    "type": "MCC"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:77",
+   "labels": [
+    "Equipment",
+    "MCC"
+   ],
+   "props": {
+    "name": "Motor Control Center 02",
+    "id": "MCC-02",
+    "type": "MCC"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:78",
+   "labels": [
+    "Equipment",
+    "PLC"
+   ],
+   "props": {
+    "name": "UPW Control PLC",
+    "id": "PLC-UPW-01",
+    "type": "PLC"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:79",
+   "labels": [
+    "Equipment",
+    "PLC"
+   ],
+   "props": {
+    "name": "CHW Control PLC",
+    "id": "PLC-CHW-01",
+    "type": "PLC"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:80",
+   "labels": [
+    "Asset",
+    "Piping",
+    "FlowInPipeOffPageConnector"
+   ],
+   "props": {
+    "nominalDiameterRepresentation": "DN 80",
+    "proteusId": "FlowInPipeOffPageConnector-1",
+    "pipingClassCode": "75HB13",
+    "name": "FlowInPipeOffPageConnector-1",
+    "id": "9340b8c3-092e-46bd-9e29-5f4a18ffb4fb",
+    "category": "Piping",
+    "lineNumber": "47121",
+    "type": "FlowInPipeOffPageConnector",
+    "fluidCode": "MNb"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:81",
+   "labels": [
+    "Asset",
+    "Piping",
+    "GlobeValve"
+   ],
+   "props": {
+    "nominalDiameterRepresentation": "DN 80",
+    "proteusId": "GlobeValve-2",
+    "pipingClassCode": "75HB13",
+    "name": "GlobeValve-2",
+    "id": "a33387de-81ab-4452-8762-ec7b50f25a5f",
+    "lineNumber": "47123",
+    "category": "Piping",
+    "type": "GlobeValve",
+    "fluidCode": "MNb"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:82",
+   "labels": [
+    "Asset",
+    "Piping",
+    "ButterflyValve"
+   ],
+   "props": {
+    "nominalDiameterRepresentation": "DN 80",
+    "proteusId": "ButterflyValve-1",
+    "pipingComponentName": "66KL21",
+    "pipingClassCode": "75HB13",
+    "name": "ButterflyValve-1",
+    "id": "1f916f11-582e-4a74-9f05-290527b04f36",
+    "category": "Piping",
+    "type": "ButterflyValve",
+    "lineNumber": "47124",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:83",
+   "labels": [
+    "Asset",
+    "Piping",
+    "SwingCheckValve"
+   ],
+   "props": {
+    "nominalDiameterRepresentation": "DN 80",
+    "proteusId": "SwingCheckValve-1",
+    "pipingComponentName": "75SA21",
+    "pipingClassCode": "75HB13",
+    "name": "SwingCheckValve-1",
+    "id": "f5a29dd1-75f1-40f7-9a34-c3b2c6fc9fe9",
+    "category": "Piping",
+    "type": "SwingCheckValve",
+    "lineNumber": "47124",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:84",
+   "labels": [
+    "Asset",
+    "Piping",
+    "PipeReducer"
+   ],
+   "props": {
+    "nominalDiameterRepresentation": "DN 80",
+    "proteusId": "PipeReducer-1",
+    "pipingClassCode": "73HG12",
+    "name": "PipeReducer-1",
+    "id": "a7305ef2-c91c-4242-80ec-eeefe85d3161",
+    "category": "Piping",
+    "type": "PipeReducer",
+    "lineNumber": "47124",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:85",
+   "labels": [
+    "Asset",
+    "Piping",
+    "BallValve"
+   ],
+   "props": {
+    "nominalDiameterRepresentation": "DN 50",
+    "proteusId": "BallValve-1",
+    "pipingComponentName": "73KH12",
+    "pipingClassCode": "73HG12",
+    "name": "BallValve-1",
+    "id": "d2ff5290-e150-42e6-9613-7a93be75b7b7",
+    "lineNumber": "47124",
+    "category": "Piping",
+    "type": "BallValve",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:86",
+   "labels": [
+    "Asset",
+    "Piping",
+    "SpringLoadedGlobeSafetyValve"
+   ],
+   "props": {
+    "nominalDiameterRepresentation": "DN 25",
+    "proteusId": "SpringLoadedGlobeSafetyValve-1",
+    "pipingClassCode": "73HG12",
+    "name": "SpringLoadedGlobeSafetyValve-1",
+    "id": "ea7068b7-f6e0-4a3e-a279-bdd9a4be252b",
+    "category": "Piping",
+    "lineNumber": "47125",
+    "type": "SpringLoadedGlobeSafetyValve",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:87",
+   "labels": [
+    "Asset",
+    "Piping",
+    "PipeTee"
+   ],
+   "props": {
+    "nominalDiameterRepresentation": "DN 50",
+    "proteusId": "PipeTee-2",
+    "pipingClassCode": "75HB13",
+    "name": "PipeTee-2",
+    "id": "f88f09c0-6b30-47eb-9897-780921f53e5d",
+    "lineNumber": "47126",
+    "category": "Piping",
+    "type": "PipeTee",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:88",
+   "labels": [
+    "Asset",
+    "Piping",
+    "BallValve"
+   ],
+   "props": {
+    "nominalDiameterRepresentation": "DN 25",
+    "proteusId": "BallValve-2",
+    "pipingComponentName": "73KH12",
+    "pipingClassCode": "75HB13",
+    "name": "BallValve-2",
+    "id": "33336ba8-da45-48d1-9785-4c27a1b46905",
+    "lineNumber": "47126",
+    "category": "Piping",
+    "type": "BallValve",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:89",
+   "labels": [
+    "Asset",
+    "Piping",
+    "PipeTee"
+   ],
+   "props": {
+    "nominalDiameterRepresentation": "DN 25",
+    "proteusId": "PipeTee-1",
+    "pipingClassCode": "75HB13",
+    "name": "PipeTee-1",
+    "id": "381ee47f-c35b-4164-89b5-107cafbb036b",
+    "lineNumber": "47125",
+    "category": "Piping",
+    "type": "PipeTee",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:90",
+   "labels": [
+    "Asset",
+    "Piping",
+    "PipeTee"
+   ],
+   "props": {
+    "nominalDiameterRepresentation": "DN 50",
+    "proteusId": "PipeTee-3",
+    "pipingClassCode": "75HB13",
+    "name": "PipeTee-3",
+    "id": "da391a7c-6868-4892-b6ef-cf4f9e062a80",
+    "lineNumber": "47126",
+    "category": "Piping",
+    "type": "PipeTee",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:91",
+   "labels": [
+    "Asset",
+    "Piping",
+    "BallValve"
+   ],
+   "props": {
+    "nominalDiameterRepresentation": "DN 25",
+    "proteusId": "BallValve-3",
+    "pipingComponentName": "73KH12",
+    "pipingClassCode": "75HB13",
+    "name": "BallValve-3",
+    "id": "4671ed1d-250a-4869-b085-530ca009bfd4",
+    "lineNumber": "47126",
+    "category": "Piping",
+    "type": "BallValve",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:92",
+   "labels": [
+    "Asset",
+    "Piping",
+    "BlindFlange"
+   ],
+   "props": {
+    "nominalDiameterRepresentation": "DN 25",
+    "proteusId": "BlindFlange-1",
+    "pipingClassCode": "75HB13",
+    "name": "BlindFlange-1",
+    "id": "e715e658-7246-4825-8a4e-1f743eac9071",
+    "category": "Piping",
+    "type": "BlindFlange",
+    "lineNumber": "47126",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:93",
+   "labels": [
+    "Asset",
+    "Piping",
+    "BallValve"
+   ],
+   "props": {
+    "nominalDiameterRepresentation": "DN 50",
+    "proteusId": "BallValve-4",
+    "pipingComponentName": "73KH12",
+    "pipingClassCode": "75HB13",
+    "name": "BallValve-4",
+    "id": "094dc650-9a99-4ec6-b09d-d870a8a5aaaf",
+    "lineNumber": "47126",
+    "category": "Piping",
+    "type": "BallValve",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:94",
+   "labels": [
+    "Asset",
+    "Piping",
+    "PipeTee"
+   ],
+   "props": {
+    "nominalDiameterRepresentation": "DN 50",
+    "proteusId": "PipeTee-4",
+    "pipingClassCode": "75HB13",
+    "name": "PipeTee-4",
+    "id": "16ec0444-06b4-4f24-bbcf-977f4de1512c",
+    "lineNumber": "47126",
+    "category": "Piping",
+    "type": "PipeTee",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:95",
+   "labels": [
+    "Asset",
+    "Piping",
+    "PipeTee"
+   ],
+   "props": {
+    "nominalDiameterRepresentation": "DN 50",
+    "proteusId": "PipeTee-5",
+    "pipingClassCode": "75HB13",
+    "name": "PipeTee-5",
+    "id": "90291f4f-8747-432e-8b45-cbdd90fb1445",
+    "lineNumber": "47126",
+    "category": "Piping",
+    "type": "PipeTee",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:96",
+   "labels": [
+    "Asset",
+    "Piping",
+    "BallValve"
+   ],
+   "props": {
+    "nominalDiameterRepresentation": "DN 25",
+    "proteusId": "BallValve-5",
+    "pipingComponentName": "73KH12",
+    "pipingClassCode": "75HB13",
+    "name": "BallValve-5",
+    "id": "3771dfa4-23eb-4e66-b9a5-e6155b6634fd",
+    "lineNumber": "47126",
+    "category": "Piping",
+    "type": "BallValve",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:97",
+   "labels": [
+    "Asset",
+    "Piping",
+    "BlindFlange"
+   ],
+   "props": {
+    "nominalDiameterRepresentation": "DN 25",
+    "proteusId": "BlindFlange-2",
+    "pipingClassCode": "75HB13",
+    "name": "BlindFlange-2",
+    "id": "3374efdf-a302-461f-99e5-23b971ca23d3",
+    "category": "Piping",
+    "type": "BlindFlange",
+    "lineNumber": "47126",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:98",
+   "labels": [
+    "Asset",
+    "Piping",
+    "FlowOutPipeOffPageConnector"
+   ],
+   "props": {
+    "nominalDiameterRepresentation": "DN 50",
+    "proteusId": "FlowOutPipeOffPageConnector-1",
+    "pipingClassCode": "75HB13",
+    "name": "FlowOutPipeOffPageConnector-1",
+    "id": "4dbb78f5-eeba-4eb0-82a1-bb8281b3b138",
+    "category": "Piping",
+    "lineNumber": "47126",
+    "type": "FlowOutPipeOffPageConnector",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:99",
+   "labels": [
+    "Asset",
+    "Piping",
+    "GlobeValve"
+   ],
+   "props": {
+    "nominalDiameterRepresentation": "DN 50",
+    "proteusId": "GlobeValve-1",
+    "pipingClassCode": "75HB13",
+    "name": "GlobeValve-1",
+    "id": "e5951fa1-f67b-4376-8161-05a3d769c35e",
+    "lineNumber": "47127",
+    "category": "Piping",
+    "type": "GlobeValve",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:100",
+   "labels": [
+    "Asset",
+    "Piping",
+    "GlobeValve"
+   ],
+   "props": {
+    "nominalDiameterRepresentation": "DN 50",
+    "proteusId": "GlobeValve-3",
+    "pipingClassCode": "75HB13",
+    "name": "GlobeValve-3",
+    "id": "61006a9d-4651-4196-b493-440fd3f8f5d9",
+    "lineNumber": "47141",
+    "category": "Piping",
+    "type": "GlobeValve",
+    "fluidCode": "QSb"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:101",
+   "labels": [
+    "Asset",
+    "Instrumentation",
+    "ProcessInstrumentationFunction"
+   ],
+   "props": {
+    "proteusId": "ProcessInstrumentationFunction-1",
+    "name": "4712.01",
+    "id": "7c2ab1aa-89e7-4f2e-92f7-7a6d21a3d1ef",
+    "category": "Instrumentation",
+    "type": "ProcessInstrumentationFunction"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:102",
+   "labels": [
+    "Asset",
+    "Instrumentation",
+    "ProcessSignalGeneratingFunction"
+   ],
+   "props": {
+    "proteusId": "ProcessSignalGeneratingFunction-1",
+    "name": "PT4712.01",
+    "id": "bacbcd36-3314-4970-8175-47cdb4864a33",
+    "category": "Instrumentation",
+    "type": "ProcessSignalGeneratingFunction"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:103",
+   "labels": [
+    "Asset",
+    "Instrumentation",
+    "ProcessInstrumentationFunction"
+   ],
+   "props": {
+    "proteusId": "ProcessInstrumentationFunction-2",
+    "name": "4712.02",
+    "id": "7cd04e02-a39b-4e1e-a262-470cadad7078",
+    "category": "Instrumentation",
+    "type": "ProcessInstrumentationFunction"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:104",
+   "labels": [
+    "Asset",
+    "Instrumentation",
+    "ActuatingFunction"
+   ],
+   "props": {
+    "proteusId": "ActuatingFunction-1",
+    "name": "PV4712.02",
+    "id": "0045611c-556b-4044-aec2-71b9a731ebe0",
+    "category": "Instrumentation",
+    "type": "ActuatingFunction"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:105",
+   "labels": [
+    "Asset",
+    "Instrumentation",
+    "ProcessSignalGeneratingFunction"
+   ],
+   "props": {
+    "proteusId": "ProcessSignalGeneratingFunction-2",
+    "name": "PT4712.02",
+    "id": "37cc7bd5-9bdf-4dce-a910-1b0ce1ed8e88",
+    "category": "Instrumentation",
+    "type": "ProcessSignalGeneratingFunction"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:106",
+   "labels": [
+    "Asset",
+    "Instrumentation",
+    "ProcessInstrumentationFunction"
+   ],
+   "props": {
+    "proteusId": "ProcessInstrumentationFunction-3",
+    "name": "4750.01",
+    "id": "4b12076f-827a-42f4-a1bb-e79ad6645067",
+    "category": "Instrumentation",
+    "type": "ProcessInstrumentationFunction"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:107",
+   "labels": [
+    "Asset",
+    "Instrumentation",
+    "ActuatingFunction"
+   ],
+   "props": {
+    "proteusId": "ActuatingFunction-2",
+    "name": "HV4750.01",
+    "id": "9102e74a-8f20-4164-aa80-cd55f1fbfc56",
+    "category": "Instrumentation",
+    "type": "ActuatingFunction"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:108",
+   "labels": [
+    "Asset",
+    "Instrumentation",
+    "ProcessInstrumentationFunction"
+   ],
+   "props": {
+    "proteusId": "ProcessInstrumentationFunction-4",
+    "name": "4750.03",
+    "id": "53b892ed-ccbc-4d05-b80c-ddc1d30c9f97",
+    "category": "Instrumentation",
+    "type": "ProcessInstrumentationFunction"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:109",
+   "labels": [
+    "Asset",
+    "Instrumentation",
+    "ActuatingFunction"
+   ],
+   "props": {
+    "proteusId": "ActuatingFunction-3",
+    "name": "TV4750.03",
+    "id": "e5da2451-dfe2-4217-95f6-659cd52e3835",
+    "category": "Instrumentation",
+    "type": "ActuatingFunction"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:110",
+   "labels": [
+    "Asset",
+    "Instrumentation",
+    "ProcessSignalGeneratingFunction"
+   ],
+   "props": {
+    "proteusId": "ProcessSignalGeneratingFunction-3",
+    "name": "TT4750.03",
+    "id": "1b5e0bdb-e21d-4b99-adfb-d7840cf25ecc",
+    "category": "Instrumentation",
+    "type": "ProcessSignalGeneratingFunction"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:111",
+   "labels": [
+    "Equipment",
+    "Asset",
+    "PlateHeatExchanger"
+   ],
+   "props": {
+    "proteusId": "PlateHeatExchanger-1",
+    "name": "H1007",
+    "id": "348af9dc-27d2-4c7b-8159-96b4c4369edf",
+    "category": "Equipment",
+    "type": "PlateHeatExchanger"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:112",
+   "labels": [
+    "Equipment",
+    "Asset",
+    "TubularHeatExchanger"
+   ],
+   "props": {
+    "proteusId": "TubularHeatExchanger-1",
+    "name": "H1008",
+    "id": "8ebb80c1-649d-4f74-8366-a3853567df20",
+    "category": "Equipment",
+    "type": "TubularHeatExchanger"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:113",
+   "labels": [
+    "Equipment",
+    "Asset",
+    "CentrifugalPump"
+   ],
+   "props": {
+    "proteusId": "CentrifugalPump-1",
+    "name": "P4711",
+    "id": "455835de-ca2d-4110-a912-8482e29e0e3b",
+    "category": "Equipment",
+    "type": "CentrifugalPump"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:114",
+   "labels": [
+    "Equipment",
+    "Asset",
+    "ReciprocatingPump"
+   ],
+   "props": {
+    "proteusId": "ReciprocatingPump-1",
+    "name": "P4712",
+    "id": "ef2e3925-758b-4f78-8ea1-f16fb5aff3a0",
+    "category": "Equipment",
+    "type": "ReciprocatingPump"
+   }
+  },
+  {
+   "id": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:115",
+   "labels": [
+    "Equipment",
+    "Tank",
+    "Asset"
+   ],
+   "props": {
+    "proteusId": "Tank-1",
+    "name": "T4750",
+    "id": "d774324d-794d-4209-a854-0f9be017099b",
+    "category": "Equipment",
+    "type": "Tank"
+   }
+  }
+ ],
+ "relationships": [
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:0",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:1",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:0",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:2",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:1",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:3",
+   "type": "FEEDS",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:2",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:3",
+   "type": "FEEDS",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:3",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:4",
+   "type": "FEEDS",
+   "props": {
+    "unit": "GPM",
+    "current_load": 125.0,
+    "max_capacity": 150.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:3",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:5",
+   "type": "FEEDS",
+   "props": {
+    "unit": "GPM",
+    "current_load": 125.0,
+    "max_capacity": 150.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:3",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:6",
+   "type": "FEEDS",
+   "props": {
+    "unit": "GPM",
+    "current_load": 125.0,
+    "max_capacity": 150.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:3",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:7",
+   "type": "FEEDS",
+   "props": {
+    "unit": "GPM",
+    "current_load": 125.0,
+    "max_capacity": 150.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:8",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:9",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "GPM",
+    "current_load": 25.0,
+    "max_capacity": 50.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:9",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:4",
+   "type": "REGENERATES",
+   "props": {
+    "medium": "Acid Regen"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:9",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:5",
+   "type": "REGENERATES",
+   "props": {
+    "medium": "Acid Regen"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:9",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:6",
+   "type": "REGENERATES",
+   "props": {
+    "medium": "Acid Regen"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:9",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:7",
+   "type": "REGENERATES",
+   "props": {
+    "medium": "Acid Regen"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:4",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:10",
+   "type": "FEEDS",
+   "props": {
+    "unit": "GPM",
+    "current_load": 210.0,
+    "max_capacity": 250.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:5",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:10",
+   "type": "FEEDS",
+   "props": {
+    "unit": "GPM",
+    "current_load": 210.0,
+    "max_capacity": 250.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:6",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:11",
+   "type": "FEEDS",
+   "props": {
+    "unit": "GPM",
+    "current_load": 210.0,
+    "max_capacity": 250.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:7",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:11",
+   "type": "FEEDS",
+   "props": {
+    "unit": "GPM",
+    "current_load": 210.0,
+    "max_capacity": 250.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:10",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:12",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:11",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:12",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:13",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:12",
+   "type": "INJECTS_INTO",
+   "props": {
+    "medium": "NaHSO3 Bisulfite"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:14",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:12",
+   "type": "INJECTS_INTO",
+   "props": {
+    "medium": "NaOH Caustic"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:12",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:15",
+   "type": "FEEDS",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:12",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:16",
+   "type": "FEEDS",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:15",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:17",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:16",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:18",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:17",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:19",
+   "type": "PERMEATE_TO",
+   "props": {
+    "unit": "GPM",
+    "current_load": 350.0,
+    "max_capacity": 400.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:18",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:19",
+   "type": "PERMEATE_TO",
+   "props": {
+    "unit": "GPM",
+    "current_load": 350.0,
+    "max_capacity": 400.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:17",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:20",
+   "type": "REJECT_TO",
+   "props": {
+    "unit": "GPM",
+    "current_load": 70.0,
+    "max_capacity": 100.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:18",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:20",
+   "type": "REJECT_TO",
+   "props": {
+    "unit": "GPM",
+    "current_load": 70.0,
+    "max_capacity": 100.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:20",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:21",
+   "type": "DRAINS_TO",
+   "props": {
+    "unit": "GPM",
+    "current_load": 70.0,
+    "max_capacity": 100.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:19",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:22",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:22",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:23",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:22",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:24",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:23",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:25",
+   "type": "FEEDS",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:24",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:25",
+   "type": "FEEDS",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:25",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:26",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:26",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:27",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:26",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:28",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:27",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:29",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:28",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:29",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:29",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:30",
+   "type": "DISTRIBUTES_TO",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:29",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:31",
+   "type": "DISTRIBUTES_TO",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:29",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:32",
+   "type": "DISTRIBUTES_TO",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:30",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:33",
+   "type": "FEEDS",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:30",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:34",
+   "type": "FEEDS",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:31",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:35",
+   "type": "FEEDS",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:31",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:36",
+   "type": "FEEDS",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:32",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:37",
+   "type": "FEEDS",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:32",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:38",
+   "type": "FEEDS",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:30",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:26",
+   "type": "RETURNS_TO",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:31",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:26",
+   "type": "RETURNS_TO",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:32",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:26",
+   "type": "RETURNS_TO",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:30",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:31",
+   "type": "FEEDS",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:31",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:32",
+   "type": "FEEDS",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:32",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:30",
+   "type": "FEEDS",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:39",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:43",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:40",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:44",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:41",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:45",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:42",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:46",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:43",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:47",
+   "type": "FEEDS",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:44",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:48",
+   "type": "FEEDS",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:45",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:49",
+   "type": "FEEDS",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:46",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:50",
+   "type": "FEEDS",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:43",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:48",
+   "type": "FEEDS",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:44",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:49",
+   "type": "FEEDS",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:45",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:50",
+   "type": "FEEDS",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:46",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:47",
+   "type": "FEEDS",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:47",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:51",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:48",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:52",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:49",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:53",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:50",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:54",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:47",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:55",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:48",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:55",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:49",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:55",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:50",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:55",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:51",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:55",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:52",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:55",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:53",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:55",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:54",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:55",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:55",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:56",
+   "type": "DISTRIBUTES_TO",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:55",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:57",
+   "type": "DISTRIBUTES_TO",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:55",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:58",
+   "type": "DISTRIBUTES_TO",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:56",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:59",
+   "type": "COOLS",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:57",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:60",
+   "type": "COOLS",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:58",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:61",
+   "type": "COOLS",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:56",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:62",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:57",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:63",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:58",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:64",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:59",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:47",
+   "type": "RETURNS_TO",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:60",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:48",
+   "type": "RETURNS_TO",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:61",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:49",
+   "type": "RETURNS_TO",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:62",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:47",
+   "type": "RETURNS_TO",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:63",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:48",
+   "type": "RETURNS_TO",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:64",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:49",
+   "type": "RETURNS_TO",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:62",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:48",
+   "type": "RETURNS_TO",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:63",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:49",
+   "type": "RETURNS_TO",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:64",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:50",
+   "type": "RETURNS_TO",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:33",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:65",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:62",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:65",
+   "type": "COOLS",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:34",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:66",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:62",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:66",
+   "type": "COOLS",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:35",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:67",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:63",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:67",
+   "type": "COOLS",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:36",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:68",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:63",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:68",
+   "type": "COOLS",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:64",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:69",
+   "type": "COOLS",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:64",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:70",
+   "type": "COOLS",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:63",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:71",
+   "type": "COOLS",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:37",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:72",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:62",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:72",
+   "type": "COOLS",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:38",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:73",
+   "type": "SUPPLIES",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:64",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:73",
+   "type": "COOLS",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:74",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:76",
+   "type": "POWERS",
+   "props": {
+    "unit": "kW",
+    "current_load": 1850.0,
+    "max_capacity": 2500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:75",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:77",
+   "type": "POWERS",
+   "props": {
+    "unit": "kW",
+    "current_load": 1850.0,
+    "max_capacity": 2500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:76",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:1",
+   "type": "POWERS",
+   "props": {
+    "unit": "kW",
+    "current_load": 1850.0,
+    "max_capacity": 2500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:76",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:28",
+   "type": "POWERS",
+   "props": {
+    "unit": "kW",
+    "current_load": 1850.0,
+    "max_capacity": 2500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:76",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:51",
+   "type": "POWERS",
+   "props": {
+    "unit": "kW",
+    "current_load": 1850.0,
+    "max_capacity": 2500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:76",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:53",
+   "type": "POWERS",
+   "props": {
+    "unit": "kW",
+    "current_load": 1850.0,
+    "max_capacity": 2500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:77",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:2",
+   "type": "POWERS",
+   "props": {
+    "unit": "kW",
+    "current_load": 1850.0,
+    "max_capacity": 2500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:77",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:27",
+   "type": "POWERS",
+   "props": {
+    "unit": "kW",
+    "current_load": 1850.0,
+    "max_capacity": 2500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:77",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:52",
+   "type": "POWERS",
+   "props": {
+    "unit": "kW",
+    "current_load": 1850.0,
+    "max_capacity": 2500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:77",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:54",
+   "type": "POWERS",
+   "props": {
+    "unit": "kW",
+    "current_load": 1850.0,
+    "max_capacity": 2500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:78",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:1",
+   "type": "CONTROLS",
+   "props": {
+    "protocol": "Modbus_TCP",
+    "latency_ms": 12.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:78",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:2",
+   "type": "CONTROLS",
+   "props": {
+    "protocol": "Modbus_TCP",
+    "latency_ms": 12.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:78",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:27",
+   "type": "CONTROLS",
+   "props": {
+    "protocol": "Modbus_TCP",
+    "latency_ms": 12.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:78",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:28",
+   "type": "CONTROLS",
+   "props": {
+    "protocol": "Modbus_TCP",
+    "latency_ms": 12.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:79",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:43",
+   "type": "CONTROLS",
+   "props": {
+    "protocol": "Modbus_TCP",
+    "latency_ms": 12.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:79",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:44",
+   "type": "CONTROLS",
+   "props": {
+    "protocol": "Modbus_TCP",
+    "latency_ms": 12.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:79",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:45",
+   "type": "CONTROLS",
+   "props": {
+    "protocol": "Modbus_TCP",
+    "latency_ms": 12.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:79",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:46",
+   "type": "CONTROLS",
+   "props": {
+    "protocol": "Modbus_TCP",
+    "latency_ms": 12.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:79",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:51",
+   "type": "CONTROLS",
+   "props": {
+    "protocol": "Modbus_TCP",
+    "latency_ms": 12.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:79",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:52",
+   "type": "CONTROLS",
+   "props": {
+    "protocol": "Modbus_TCP",
+    "latency_ms": 12.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:79",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:53",
+   "type": "CONTROLS",
+   "props": {
+    "protocol": "Modbus_TCP",
+    "latency_ms": 12.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:79",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:54",
+   "type": "CONTROLS",
+   "props": {
+    "protocol": "Modbus_TCP",
+    "latency_ms": 12.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:2",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:1",
+   "type": "BACKUP_FOR",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:1",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:2",
+   "type": "BACKUP_FOR",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:28",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:27",
+   "type": "BACKUP_FOR",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:27",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:28",
+   "type": "BACKUP_FOR",
+   "props": {
+    "unit": "GPM",
+    "current_load": 420.0,
+    "max_capacity": 500.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:50",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:47",
+   "type": "BACKUP_FOR",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:50",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:48",
+   "type": "BACKUP_FOR",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:50",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:49",
+   "type": "BACKUP_FOR",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:54",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:51",
+   "type": "BACKUP_FOR",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:54",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:52",
+   "type": "BACKUP_FOR",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:54",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:53",
+   "type": "BACKUP_FOR",
+   "props": {
+    "unit": "Tons",
+    "current_load": 850.0,
+    "max_capacity": 1200.0
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:80",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:113",
+   "type": "PIPE",
+   "props": {
+    "nominalDiameterRepresentation": "DN 80",
+    "proteusId": "PipingNetworkSegment-1",
+    "pipingClassCode": "75HB13",
+    "type": "Pipe",
+    "lineNumber": "47121",
+    "fluidCode": "MNb"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:81",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:115",
+   "type": "PIPE",
+   "props": {
+    "nominalDiameterRepresentation": "DN 80",
+    "proteusId": "PipingNetworkSegment-3",
+    "pipingClassCode": "75HB13",
+    "type": "Pipe",
+    "lineNumber": "47123",
+    "fluidCode": "MNb"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:82",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:83",
+   "type": "PIPE",
+   "props": {
+    "nominalDiameterRepresentation": "DN 80",
+    "proteusId": "PipingNetworkSegment-4",
+    "pipingClassCode": "75HB13",
+    "type": "Pipe",
+    "lineNumber": "47124",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:83",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:84",
+   "type": "PIPE",
+   "props": {
+    "nominalDiameterRepresentation": "DN 80",
+    "proteusId": "PipingNetworkSegment-5",
+    "pipingClassCode": "73HG12",
+    "type": "Pipe",
+    "lineNumber": "47124",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:84",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:85",
+   "type": "PIPE",
+   "props": {
+    "nominalDiameterRepresentation": "DN 50",
+    "proteusId": "PipingNetworkSegment-6",
+    "pipingClassCode": "73HG12",
+    "type": "Pipe",
+    "lineNumber": "47124",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:85",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:114",
+   "type": "PIPE",
+   "props": {
+    "nominalDiameterRepresentation": "DN 50",
+    "proteusId": "PipingNetworkSegment-6",
+    "pipingClassCode": "73HG12",
+    "type": "Pipe",
+    "lineNumber": "47124",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:86",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:115",
+   "type": "PIPE",
+   "props": {
+    "nominalDiameterRepresentation": "DN 50",
+    "proteusId": "PipingNetworkSegment-8",
+    "pipingClassCode": "75HB13",
+    "type": "Pipe",
+    "lineNumber": "47125",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:87",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:88",
+   "type": "PIPE",
+   "props": {
+    "nominalDiameterRepresentation": "DN 25",
+    "proteusId": "PipingNetworkSegment-10",
+    "pipingClassCode": "75HB13",
+    "type": "Pipe",
+    "lineNumber": "47126",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:87",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:89",
+   "type": "PIPE",
+   "props": {
+    "nominalDiameterRepresentation": "DN 50",
+    "proteusId": "PipingNetworkSegment-11",
+    "pipingClassCode": "75HB13",
+    "type": "Pipe",
+    "lineNumber": "47126",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:89",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:86",
+   "type": "PIPE",
+   "props": {
+    "nominalDiameterRepresentation": "DN 25",
+    "proteusId": "PipingNetworkSegment-7",
+    "pipingClassCode": "73HG12",
+    "type": "Pipe",
+    "lineNumber": "47125",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:89",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:90",
+   "type": "PIPE",
+   "props": {
+    "nominalDiameterRepresentation": "DN 50",
+    "proteusId": "PipingNetworkSegment-12",
+    "pipingClassCode": "75HB13",
+    "type": "Pipe",
+    "lineNumber": "47126",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:90",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:91",
+   "type": "PIPE",
+   "props": {
+    "nominalDiameterRepresentation": "DN 25",
+    "proteusId": "PipingNetworkSegment-13",
+    "pipingClassCode": "75HB13",
+    "type": "Pipe",
+    "lineNumber": "47126",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:90",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:93",
+   "type": "PIPE",
+   "props": {
+    "nominalDiameterRepresentation": "DN 50",
+    "proteusId": "PipingNetworkSegment-14",
+    "pipingClassCode": "75HB13",
+    "type": "Pipe",
+    "lineNumber": "47126",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:91",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:92",
+   "type": "DIRECT_PIPING_CONNECTION",
+   "props": {
+    "nominalDiameterRepresentation": "DN 25",
+    "proteusId": "PipingNetworkSegment-13",
+    "pipingClassCode": "75HB13",
+    "type": "DirectPipingConnection",
+    "lineNumber": "47126",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:93",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:94",
+   "type": "PIPE",
+   "props": {
+    "nominalDiameterRepresentation": "DN 50",
+    "proteusId": "PipingNetworkSegment-14",
+    "pipingClassCode": "75HB13",
+    "type": "Pipe",
+    "lineNumber": "47126",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:94",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:95",
+   "type": "PIPE",
+   "props": {
+    "nominalDiameterRepresentation": "DN 50",
+    "proteusId": "PipingNetworkSegment-16",
+    "pipingClassCode": "75HB13",
+    "type": "Pipe",
+    "lineNumber": "47126",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:94",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:112",
+   "type": "PIPE",
+   "props": {
+    "nominalDiameterRepresentation": "DN 50",
+    "proteusId": "PipingNetworkSegment-15",
+    "pipingClassCode": "75HB13",
+    "type": "Pipe",
+    "lineNumber": "47126",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:95",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:96",
+   "type": "PIPE",
+   "props": {
+    "nominalDiameterRepresentation": "DN 25",
+    "proteusId": "PipingNetworkSegment-17",
+    "pipingClassCode": "75HB13",
+    "type": "Pipe",
+    "lineNumber": "47126",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:95",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:98",
+   "type": "PIPE",
+   "props": {
+    "nominalDiameterRepresentation": "DN 50",
+    "proteusId": "PipingNetworkSegment-18",
+    "pipingClassCode": "75HB13",
+    "type": "Pipe",
+    "lineNumber": "47126",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:96",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:97",
+   "type": "DIRECT_PIPING_CONNECTION",
+   "props": {
+    "nominalDiameterRepresentation": "DN 25",
+    "proteusId": "PipingNetworkSegment-17",
+    "pipingClassCode": "75HB13",
+    "type": "DirectPipingConnection",
+    "lineNumber": "47126",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:99",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:115",
+   "type": "PIPE",
+   "props": {
+    "nominalDiameterRepresentation": "DN 50",
+    "proteusId": "PipingNetworkSegment-19",
+    "pipingClassCode": "75HB13",
+    "type": "Pipe",
+    "lineNumber": "47127",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:102",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:92",
+   "type": "REFERENCE",
+   "props": {
+    "type": "reference"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:102",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:101",
+   "type": "MEASURING_LINE_FUNCTION",
+   "props": {
+    "proteusId": "MeasuringLineFunction-1",
+    "type": "MeasuringLineFunction"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:103",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:104",
+   "type": "SIGNAL_CONVEYING_FUNCTION",
+   "props": {
+    "proteusId": "SignalConveyingFunction-1",
+    "type": "SignalConveyingFunction"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:104",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:99",
+   "type": "OPERATED_VALVE_REFERENCE",
+   "props": {
+    "proteusId": "OperatedValveReference-1",
+    "type": "OperatedValveReference"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:105",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:97",
+   "type": "REFERENCE",
+   "props": {
+    "type": "reference"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:105",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:103",
+   "type": "MEASURING_LINE_FUNCTION",
+   "props": {
+    "proteusId": "MeasuringLineFunction-2",
+    "type": "MeasuringLineFunction"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:106",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:107",
+   "type": "SIGNAL_CONVEYING_FUNCTION",
+   "props": {
+    "proteusId": "SignalConveyingFunction-2",
+    "type": "SignalConveyingFunction"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:107",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:81",
+   "type": "OPERATED_VALVE_REFERENCE",
+   "props": {
+    "proteusId": "OperatedValveReference-2",
+    "type": "OperatedValveReference"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:108",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:109",
+   "type": "SIGNAL_CONVEYING_FUNCTION",
+   "props": {
+    "proteusId": "SignalConveyingFunction-3",
+    "type": "SignalConveyingFunction"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:109",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:100",
+   "type": "OPERATED_VALVE_REFERENCE",
+   "props": {
+    "proteusId": "OperatedValveReference-3",
+    "type": "OperatedValveReference"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:110",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:115",
+   "type": "REFERENCE",
+   "props": {
+    "type": "reference"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:110",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:108",
+   "type": "MEASURING_LINE_FUNCTION",
+   "props": {
+    "proteusId": "MeasuringLineFunction-3",
+    "type": "MeasuringLineFunction"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:111",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:81",
+   "type": "PIPE",
+   "props": {
+    "nominalDiameterRepresentation": "DN 80",
+    "proteusId": "PipingNetworkSegment-3",
+    "pipingClassCode": "75HB13",
+    "type": "Pipe",
+    "lineNumber": "47123",
+    "fluidCode": "MNb"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:112",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:99",
+   "type": "PIPE",
+   "props": {
+    "nominalDiameterRepresentation": "DN 50",
+    "proteusId": "PipingNetworkSegment-19",
+    "pipingClassCode": "75HB13",
+    "type": "Pipe",
+    "lineNumber": "47127",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:112",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:100",
+   "type": "PIPE",
+   "props": {
+    "nominalDiameterRepresentation": "DN 50",
+    "proteusId": "PipingNetworkSegment-23",
+    "pipingClassCode": "75HB13",
+    "type": "Pipe",
+    "lineNumber": "47141",
+    "fluidCode": "QSb"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:113",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:111",
+   "type": "PIPE",
+   "props": {
+    "nominalDiameterRepresentation": "DN 80",
+    "proteusId": "PipingNetworkSegment-2",
+    "pipingClassCode": "75HB13",
+    "type": "Pipe",
+    "lineNumber": "47122",
+    "fluidCode": "MNb"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:114",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:87",
+   "type": "PIPE",
+   "props": {
+    "nominalDiameterRepresentation": "DN 50",
+    "proteusId": "PipingNetworkSegment-9",
+    "pipingClassCode": "75HB13",
+    "type": "Pipe",
+    "lineNumber": "47126",
+    "fluidCode": "MNc"
+   }
+  },
+  {
+   "start": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:115",
+   "end": "4:29bf5710-dcdc-467d-9e2f-67fa5f162230:82",
+   "type": "PIPE",
+   "props": {
+    "nominalDiameterRepresentation": "DN 80",
+    "proteusId": "PipingNetworkSegment-4",
+    "pipingClassCode": "75HB13",
+    "type": "Pipe",
+    "lineNumber": "47124",
+    "fluidCode": "MNc"
+   }
+  }
+ ],
+ "constraints": [
+  "CREATE CONSTRAINT `equipment_id_unique` FOR (n:`Equipment`) REQUIRE (n.`id`) IS UNIQUE"
+ ]
+}

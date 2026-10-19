@@ -1,0 +1,37 @@
+id,name,type,category,proteusId,pipingComponentName,lineNumber,fluidCode,nominalDiameterRepresentation,pipingClassCode
+fbcec487-253e-4cee-968e-7dae3a75fc8a,FlowInPipeOffPageConnector-1,FlowInPipeOffPageConnector,Piping,FlowInPipeOffPageConnector-1,,47121,MNb,DN 80,75HB13
+9044ce61-db17-4c0d-a707-6c5233d6bb46,GlobeValve-2,GlobeValve,Piping,GlobeValve-2,,47123,MNb,DN 80,75HB13
+aacedae3-40c4-4633-84a5-046c9470f895,ButterflyValve-1,ButterflyValve,Piping,ButterflyValve-1,66KL21,47124,MNc,DN 80,75HB13
+75573951-f7d1-4960-b3a0-9d2619b52167,SwingCheckValve-1,SwingCheckValve,Piping,SwingCheckValve-1,75SA21,47124,MNc,DN 80,75HB13
+bc4edc46-f51d-499b-9ea6-3ac948223527,PipeReducer-1,PipeReducer,Piping,PipeReducer-1,,47124,MNc,DN 80,73HG12
+adfe2710-a188-4129-95ba-f60c129f21bb,BallValve-1,BallValve,Piping,BallValve-1,73KH12,47124,MNc,DN 50,73HG12
+ca5dfae9-3056-4419-8e6a-173f6a7a55b5,SpringLoadedGlobeSafetyValve-1,SpringLoadedGlobeSafetyValve,Piping,SpringLoadedGlobeSafetyValve-1,,47125,MNc,DN 25,73HG12
+d9d287f1-cfbe-4f13-987b-4179051f954a,PipeTee-2,PipeTee,Piping,PipeTee-2,,47126,MNc,DN 50,75HB13
+adc2630f-db8d-468a-98fa-c0882f06532b,BallValve-2,BallValve,Piping,BallValve-2,73KH12,47126,MNc,DN 25,75HB13
+e52c6381-8b10-4336-aaa8-ef02a9ca5b93,PipeTee-1,PipeTee,Piping,PipeTee-1,,47125,MNc,DN 25,75HB13
+fea03cc8-6213-4b7f-8aee-0c3f92c662b8,PipeTee-3,PipeTee,Piping,PipeTee-3,,47126,MNc,DN 50,75HB13
+0a88f9e4-fe0b-4017-94a1-255d72fafb16,BallValve-3,BallValve,Piping,BallValve-3,73KH12,47126,MNc,DN 25,75HB13
+2abeb208-c37b-4a6a-a1f2-080df029af2a,BlindFlange-1,BlindFlange,Piping,BlindFlange-1,,47126,MNc,DN 25,75HB13
+f04ee122-8015-4880-a0b0-af5f868fc926,BallValve-4,BallValve,Piping,BallValve-4,73KH12,47126,MNc,DN 50,75HB13
+d3a42c98-3437-4531-a0a4-cbb8ab0e5c69,PipeTee-4,PipeTee,Piping,PipeTee-4,,47126,MNc,DN 50,75HB13
+1ac7a96c-59bd-45ef-a7a7-edde73e4795c,PipeTee-5,PipeTee,Piping,PipeTee-5,,47126,MNc,DN 50,75HB13
+ae99e5c2-af05-4c16-b0cc-45e030453438,BallValve-5,BallValve,Piping,BallValve-5,73KH12,47126,MNc,DN 25,75HB13
+4023f4c7-6fb1-47a8-be22-59e5d9ffea94,BlindFlange-2,BlindFlange,Piping,BlindFlange-2,,47126,MNc,DN 25,75HB13
+f14e1c05-593b-4b1d-9fa1-275d156bc72d,FlowOutPipeOffPageConnector-1,FlowOutPipeOffPageConnector,Piping,FlowOutPipeOffPageConnector-1,,47126,MNc,DN 50,75HB13
+02a5d165-ffc1-42c0-a5bf-7ee54575bc73,GlobeValve-1,GlobeValve,Piping,GlobeValve-1,,47127,MNc,DN 50,75HB13
+6681706b-ac8d-46aa-a863-4adc6ed7ec2d,GlobeValve-3,GlobeValve,Piping,GlobeValve-3,,47141,QSb,DN 50,75HB13
+86ec573f-34f0-44af-9a23-b601912748e5,4712.01,ProcessInstrumentationFunction,Instrumentation,ProcessInstrumentationFunction-1,,,,,
+2329522e-e892-4493-8b72-ac427fb0f886,PT4712.01,ProcessSignalGeneratingFunction,Instrumentation,ProcessSignalGeneratingFunction-1,,,,,
+db2ac1f8-8dd2-47bb-8644-26dd77ee189a,4712.02,ProcessInstrumentationFunction,Instrumentation,ProcessInstrumentationFunction-2,,,,,
+d095c4ef-37a9-4797-97a8-4e40f4d24244,PV4712.02,ActuatingFunction,Instrumentation,ActuatingFunction-1,,,,,
+e52f4b99-79dd-40ca-a758-2c28ad3f14e6,PT4712.02,ProcessSignalGeneratingFunction,Instrumentation,ProcessSignalGeneratingFunction-2,,,,,
+59284cb2-5896-496c-bd3a-0785daaca4b9,4750.01,ProcessInstrumentationFunction,Instrumentation,ProcessInstrumentationFunction-3,,,,,
+29d5f0f9-1bea-41cf-917e-72bc62fbada0,HV4750.01,ActuatingFunction,Instrumentation,ActuatingFunction-2,,,,,
+d01badb5-7456-468c-a24c-745c9ee98250,4750.03,ProcessInstrumentationFunction,Instrumentation,ProcessInstrumentationFunction-4,,,,,
+a13c2683-1f30-4259-878a-0ccf35a7afa8,TV4750.03,ActuatingFunction,Instrumentation,ActuatingFunction-3,,,,,
+f7b647cc-db83-4650-b02c-63de45bdd583,TT4750.03,ProcessSignalGeneratingFunction,Instrumentation,ProcessSignalGeneratingFunction-3,,,,,
+f144a62d-5ea4-4873-b4d8-45b1d916ed56,H1007,PlateHeatExchanger,Equipment,PlateHeatExchanger-1,,,,,
+c534294e-31d4-4040-863e-1c32b7043969,H1008,TubularHeatExchanger,Equipment,TubularHeatExchanger-1,,,,,
+731cde95-fca2-4cb1-9b1b-080eaa359994,P4711,CentrifugalPump,Equipment,CentrifugalPump-1,,,,,
+4847c02e-e11c-40c2-a005-346f9c84a654,P4712,ReciprocatingPump,Equipment,ReciprocatingPump-1,,,,,
+53f037d2-91c8-46d5-ab96-bfc3263d6a3d,T4750,Tank,Equipment,Tank-1,,,,,

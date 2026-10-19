@@ -1,0 +1,23 @@
+# Detail levels of the graph view (graph_levels.py). Keys are DEXPI class names exactly as they appear in an asset's
+# `type`. A type not listed here counts as main_equipment if its category is Equipment, otherwise as pass_through,
+# and is listed under "Unclassified types" in the Validation tab so it can be put in the right group.
+#
+#   Complete    every stored object
+#   Process     main_equipment, valve, boundary and one node per loop; pass_through items collapsed
+#   Conceptual  main_equipment and boundary only; valves collapsed too
+
+main_equipment:   [RotaryPump, Pump, VesselWithDishedHeadsWithOptionalAgitator, HeatExchanger,
+                   Separator, CustomEquipment, Tank, Vessel, BubbleTrayColumn]
+valve:            [GlobeValve, CheckValve, TightShutOffValve, ControlValve, BallValve, GateValve, ButterflyValve]
+boundary:         [FlowInPipeOffPageConnector, FlowOutPipeOffPageConnector]
+pass_through:     [PipeTee, PipeReducer, PipeFlowArrow, Nozzle]          # collapsed at Process and Conceptual
+fold_into_equipment: [Motor, Agitator]
+# ... plus any type whose description starts with one of these (COMOS writes motors as plain 'Equipment')
+fold_into_equipment_descriptions: ["Three-phase motor", "Electric motor"]
+fold_into_valve:  [ActuatingSystem, ActuatingFunction]
+fold_into_instrument: [Alarm]
+instrument:       [ProcessInstrumentationFunction]
+loop:             [InstrumentationLoopFunction]
+# pipe lines as nodes (loader: an instrument measuring on a pipe); a loop measuring there is shown on that line's
+# nearest kept item. Not drawn at Process / Conceptual.
+line:             [PipingNetworkSystem, PipingNetworkSegment]

@@ -1,0 +1,71 @@
+{
+  "_about": "Expected results for the COMOS sheet set =P1.H3.FB.001 + =P1.H4.FB.001 (tests/test_islands.py). Data only: the loader knows none of these tags.",
+  "sheets": {
+    "=P1.H3.FB.001": "../=P1.H3.FB.001 (A3BQHLXDAR)",
+    "=P1.H4.FB.001": "../=P1.H4.FB.001 (A3BQHLXCAR)"
+  },
+  "rules_per_sheet": {
+    "=P1.H3.FB.001": {"fulfills": 6, "is a collection including": 18, "information flow to nozzle": 3,
+                      "pipe along segment": 2, "alarm": 2, "open pipe end": 2},
+    "=P1.H4.FB.001": {"fulfills": 8, "is a collection including": 28, "information flow to nozzle": 3,
+                      "information flow to pipe line": 4, "line contains": 2, "pipe along segment": 9, "alarm": 1,
+                      "open pipe end": 2, "skipped artefact": 1}
+  },
+  "plant_relationships": {
+    "FULFILLS": 14,
+    "IS_A_COLLECTION_INCLUDING": 46,
+    "HAS_ALARM": 3,
+    "CONTAINS": 2
+  },
+  "measuring_lines_to_nozzle": 6,
+  "measuring_lines_to_pipe_line": {"line": "LINE:=P1.H4.T1.P010", "count": 4},
+  "pipes_on_sheets": 50,
+  "_pipes_on_sheets": "37 stored before the XML pass + 11 added along segments (rule count checked per sheet) + 2 reducers drawn on pump P002 (P1.H4.T1)",
+  "alarms": ["TAG:=P1.H3.T2.L001.LISA.AH", "TAG:=P1.H3.T2.P001.PI.AH", "TAG:=P1.H4.T1.P002.PISA.AH"],
+  "skipped": ["=P1.H4.FB.001::XMP_618"],
+  "cross_sheet_pipes": [
+    {"from": "TAG:=P1.H3.T2B001", "to": "TAG:=P1.H4.T1.L002.LV-H001", "line": "=P1.H3.T2.P006"},
+    {"from": "TAG:=P1.H4.T3F001", "to": "TAG:=P1.H3.T1.P004.001R002", "line": "=P1.H4.T3.P027"}
+  ],
+  "islands": 1,
+  "single_nodes": 0,
+  "island_members": [
+    ["TAG:=P1.H3.T2B001", "TAG:=P1.H3.T1P001", "TAG:=P1.H3.T1P002", "TAG:=P1.H4.T1B003", "TAG:=P1.H4.T3F001",
+     "TAG:=P1.H4.T1.L002.LV-H001", "TAG:=P1.H4.T1P002", "TAG:+0.L002.G001.R002.S001.MO01-M1",
+     "TAG:=P1.H4.T3k001", "TAG:=P1.H4.T3W001", "TAG:=P1.H4.T3W002", "TAG:=P1.H4.T3B001", "TAG:=P1.H4.T3P002",
+     "TAG:=P1.H4.T3P003"]
+  ],
+  "island_exact": [],
+  "levels": {
+    "Process": {"flow_nodes": 39, "flow_links": 45},
+    "Conceptual": {
+      "nodes": 16, "links": 20,
+      "links_present": [
+        ["TAG:=P1.H4.T3F001", "TAG:=P1.H3.T1P001"], ["TAG:=P1.H4.T3F001", "TAG:=P1.H3.T1P002"],
+        ["TAG:=P1.H3.T1P001", "TAG:=P1.H3.T2B001"], ["TAG:=P1.H3.T1P002", "TAG:=P1.H3.T2B001"],
+        ["TAG:=P1.H3.T2B001", "TAG:=P1.H4.T1B003"], ["TAG:=P1.H4.T1B003", "TAG:=P1.H4.T3F001"],
+        ["TAG:=P1.H4.T3B001", "TAG:=P1.H4.T3P002"], ["TAG:=P1.H4.T3B001", "TAG:=P1.H4.T3P003"],
+        ["TAG:=P1.H4.T3P002", "TAG:=P1.H4.T3k001"], ["TAG:=P1.H4.T3P003", "TAG:=P1.H4.T3k001"],
+        ["TAG:=P1.H4.T3k001", "TAG:=P1.H4.T3W001"], ["TAG:=P1.H4.T3k001", "TAG:=P1.H4.T3W002"],
+        ["TAG:=P1.H4.T3W002", "TAG:=P1.H4.T3k001"], ["TAG:=P1.H4.T3W001", "TAG:=P1.H4.T3B001"],
+        ["TAG:=P1.H4.T3.P015003", "TAG:=P1.H4.T3W002"], ["TAG:=P1.H4.T3W002", "TAG:=P1.H4.T3.P016002"],
+        ["TAG:=P1.H4.T3W001", "TAG:=P1.H4.T3.P016003"], ["TAG:=P1.H4.T3.P015004", "TAG:=P1.H4.T3W001"],
+        ["TAG:=P1.H4.T3F001", "TAG:=P1.H4.T1P002"], ["TAG:=P1.H4.T1P002", "TAG:=P1.H4.T3k001"]
+      ],
+      "cross_sheet": [["TAG:=P1.H3.T2B001", "TAG:=P1.H4.T1B003", "=P1.H3.T2.P006"]],
+      "alone": []
+    }
+  },
+  "unchanged_uids": ["TAG:+0.L001.G001.R001.S002.MO01-M1", "TAG:+0.L001.G001.R001.S002.MO02-M1",
+    "TAG:+0.L002.G001.R002.S001.MO01-M1", "TAG:+0.L002.G001.R002.S001.MO03-M1", "TAG:+0.L002.G001.R002.S002.MO02-M1",
+    "TAG:+0.L002.G001.R002.S003.MO01-M1", "TAG:=P1.H3.T1-R001", "TAG:=P1.H3.T1-R002", "TAG:=P1.H3.T1-V001",
+    "TAG:=P1.H3.T1-V002", "TAG:=P1.H3.T1-V003", "TAG:=P1.H3.T1-V004", "TAG:=P1.H3.T1P001", "TAG:=P1.H3.T1P002",
+    "TAG:=P1.H3.T2-B001", "TAG:=P1.H3.T2-B002", "TAG:=P1.H3.T2.L001.LISA.AH", "TAG:=P1.H3.T2.P001.PI.AH",
+    "TAG:=P1.H3.T2B001", "TAG:=P1.H3.T2B001R001", "TAG:=P1.H3.T2B001R001-M001", "TAG:=P1.H4.T1-B004",
+    "TAG:=P1.H4.T1-R002", "TAG:=P1.H4.T1-V002", "TAG:=P1.H4.T1-V003", "TAG:=P1.H4.T1.L002.LV-H001",
+    "TAG:=P1.H4.T1.P002.PISA.AH", "TAG:=P1.H4.T1B003", "TAG:=P1.H4.T1B003R001", "TAG:=P1.H4.T1P002",
+    "TAG:=P1.H4.T3-R002", "TAG:=P1.H4.T3-R006", "TAG:=P1.H4.T3-V002", "TAG:=P1.H4.T3-V003", "TAG:=P1.H4.T3-V004",
+    "TAG:=P1.H4.T3-V005", "TAG:=P1.H4.T3-V006", "TAG:=P1.H4.T3-V007", "TAG:=P1.H4.T3-V008", "TAG:=P1.H4.T3-V009",
+    "TAG:=P1.H4.T3B001", "TAG:=P1.H4.T3F001", "TAG:=P1.H4.T3P002", "TAG:=P1.H4.T3P003", "TAG:=P1.H4.T3W001",
+    "TAG:=P1.H4.T3W002", "TAG:=P1.H4.T3k001"]
+}

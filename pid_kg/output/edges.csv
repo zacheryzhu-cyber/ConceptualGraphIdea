@@ -1,0 +1,40 @@
+source,target,type,proteusId,pipingComponentName,lineNumber,fluidCode,nominalDiameterRepresentation,pipingClassCode
+fbcec487-253e-4cee-968e-7dae3a75fc8a,731cde95-fca2-4cb1-9b1b-080eaa359994,Pipe,PipingNetworkSegment-1,,47121,MNb,DN 80,75HB13
+9044ce61-db17-4c0d-a707-6c5233d6bb46,53f037d2-91c8-46d5-ab96-bfc3263d6a3d,Pipe,PipingNetworkSegment-3,,47123,MNb,DN 80,75HB13
+aacedae3-40c4-4633-84a5-046c9470f895,75573951-f7d1-4960-b3a0-9d2619b52167,Pipe,PipingNetworkSegment-4,,47124,MNc,DN 80,75HB13
+75573951-f7d1-4960-b3a0-9d2619b52167,bc4edc46-f51d-499b-9ea6-3ac948223527,Pipe,PipingNetworkSegment-5,,47124,MNc,DN 80,73HG12
+bc4edc46-f51d-499b-9ea6-3ac948223527,adfe2710-a188-4129-95ba-f60c129f21bb,Pipe,PipingNetworkSegment-6,,47124,MNc,DN 50,73HG12
+adfe2710-a188-4129-95ba-f60c129f21bb,4847c02e-e11c-40c2-a005-346f9c84a654,Pipe,PipingNetworkSegment-6,,47124,MNc,DN 50,73HG12
+ca5dfae9-3056-4419-8e6a-173f6a7a55b5,53f037d2-91c8-46d5-ab96-bfc3263d6a3d,Pipe,PipingNetworkSegment-8,,47125,MNc,DN 50,75HB13
+d9d287f1-cfbe-4f13-987b-4179051f954a,adc2630f-db8d-468a-98fa-c0882f06532b,Pipe,PipingNetworkSegment-10,,47126,MNc,DN 25,75HB13
+d9d287f1-cfbe-4f13-987b-4179051f954a,e52c6381-8b10-4336-aaa8-ef02a9ca5b93,Pipe,PipingNetworkSegment-11,,47126,MNc,DN 50,75HB13
+e52c6381-8b10-4336-aaa8-ef02a9ca5b93,ca5dfae9-3056-4419-8e6a-173f6a7a55b5,Pipe,PipingNetworkSegment-7,,47125,MNc,DN 25,73HG12
+e52c6381-8b10-4336-aaa8-ef02a9ca5b93,fea03cc8-6213-4b7f-8aee-0c3f92c662b8,Pipe,PipingNetworkSegment-12,,47126,MNc,DN 50,75HB13
+fea03cc8-6213-4b7f-8aee-0c3f92c662b8,0a88f9e4-fe0b-4017-94a1-255d72fafb16,Pipe,PipingNetworkSegment-13,,47126,MNc,DN 25,75HB13
+fea03cc8-6213-4b7f-8aee-0c3f92c662b8,f04ee122-8015-4880-a0b0-af5f868fc926,Pipe,PipingNetworkSegment-14,,47126,MNc,DN 50,75HB13
+0a88f9e4-fe0b-4017-94a1-255d72fafb16,2abeb208-c37b-4a6a-a1f2-080df029af2a,DirectPipingConnection,PipingNetworkSegment-13,,47126,MNc,DN 25,75HB13
+f04ee122-8015-4880-a0b0-af5f868fc926,d3a42c98-3437-4531-a0a4-cbb8ab0e5c69,Pipe,PipingNetworkSegment-14,,47126,MNc,DN 50,75HB13
+d3a42c98-3437-4531-a0a4-cbb8ab0e5c69,1ac7a96c-59bd-45ef-a7a7-edde73e4795c,Pipe,PipingNetworkSegment-16,,47126,MNc,DN 50,75HB13
+d3a42c98-3437-4531-a0a4-cbb8ab0e5c69,c534294e-31d4-4040-863e-1c32b7043969,Pipe,PipingNetworkSegment-15,,47126,MNc,DN 50,75HB13
+1ac7a96c-59bd-45ef-a7a7-edde73e4795c,ae99e5c2-af05-4c16-b0cc-45e030453438,Pipe,PipingNetworkSegment-17,,47126,MNc,DN 25,75HB13
+1ac7a96c-59bd-45ef-a7a7-edde73e4795c,f14e1c05-593b-4b1d-9fa1-275d156bc72d,Pipe,PipingNetworkSegment-18,,47126,MNc,DN 50,75HB13
+ae99e5c2-af05-4c16-b0cc-45e030453438,4023f4c7-6fb1-47a8-be22-59e5d9ffea94,DirectPipingConnection,PipingNetworkSegment-17,,47126,MNc,DN 25,75HB13
+02a5d165-ffc1-42c0-a5bf-7ee54575bc73,53f037d2-91c8-46d5-ab96-bfc3263d6a3d,Pipe,PipingNetworkSegment-19,,47127,MNc,DN 50,75HB13
+2329522e-e892-4493-8b72-ac427fb0f886,2abeb208-c37b-4a6a-a1f2-080df029af2a,reference,,,,,,
+2329522e-e892-4493-8b72-ac427fb0f886,86ec573f-34f0-44af-9a23-b601912748e5,MeasuringLineFunction,MeasuringLineFunction-1,,,,,
+db2ac1f8-8dd2-47bb-8644-26dd77ee189a,d095c4ef-37a9-4797-97a8-4e40f4d24244,SignalConveyingFunction,SignalConveyingFunction-1,,,,,
+d095c4ef-37a9-4797-97a8-4e40f4d24244,02a5d165-ffc1-42c0-a5bf-7ee54575bc73,OperatedValveReference,OperatedValveReference-1,,,,,
+e52f4b99-79dd-40ca-a758-2c28ad3f14e6,4023f4c7-6fb1-47a8-be22-59e5d9ffea94,reference,,,,,,
+e52f4b99-79dd-40ca-a758-2c28ad3f14e6,db2ac1f8-8dd2-47bb-8644-26dd77ee189a,MeasuringLineFunction,MeasuringLineFunction-2,,,,,
+59284cb2-5896-496c-bd3a-0785daaca4b9,29d5f0f9-1bea-41cf-917e-72bc62fbada0,SignalConveyingFunction,SignalConveyingFunction-2,,,,,
+29d5f0f9-1bea-41cf-917e-72bc62fbada0,9044ce61-db17-4c0d-a707-6c5233d6bb46,OperatedValveReference,OperatedValveReference-2,,,,,
+d01badb5-7456-468c-a24c-745c9ee98250,a13c2683-1f30-4259-878a-0ccf35a7afa8,SignalConveyingFunction,SignalConveyingFunction-3,,,,,
+a13c2683-1f30-4259-878a-0ccf35a7afa8,6681706b-ac8d-46aa-a863-4adc6ed7ec2d,OperatedValveReference,OperatedValveReference-3,,,,,
+f7b647cc-db83-4650-b02c-63de45bdd583,53f037d2-91c8-46d5-ab96-bfc3263d6a3d,reference,,,,,,
+f7b647cc-db83-4650-b02c-63de45bdd583,d01badb5-7456-468c-a24c-745c9ee98250,MeasuringLineFunction,MeasuringLineFunction-3,,,,,
+f144a62d-5ea4-4873-b4d8-45b1d916ed56,9044ce61-db17-4c0d-a707-6c5233d6bb46,Pipe,PipingNetworkSegment-3,,47123,MNb,DN 80,75HB13
+c534294e-31d4-4040-863e-1c32b7043969,02a5d165-ffc1-42c0-a5bf-7ee54575bc73,Pipe,PipingNetworkSegment-19,,47127,MNc,DN 50,75HB13
+c534294e-31d4-4040-863e-1c32b7043969,6681706b-ac8d-46aa-a863-4adc6ed7ec2d,Pipe,PipingNetworkSegment-23,,47141,QSb,DN 50,75HB13
+731cde95-fca2-4cb1-9b1b-080eaa359994,f144a62d-5ea4-4873-b4d8-45b1d916ed56,Pipe,PipingNetworkSegment-2,,47122,MNb,DN 80,75HB13
+4847c02e-e11c-40c2-a005-346f9c84a654,d9d287f1-cfbe-4f13-987b-4179051f954a,Pipe,PipingNetworkSegment-9,,47126,MNc,DN 50,75HB13
+53f037d2-91c8-46d5-ab96-bfc3263d6a3d,aacedae3-40c4-4633-84a5-046c9470f895,Pipe,PipingNetworkSegment-4,,47124,MNc,DN 80,75HB13
