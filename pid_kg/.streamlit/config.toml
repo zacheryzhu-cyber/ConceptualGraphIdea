@@ -1,3 +1,9 @@
+# Embedded in a WinCC OA UI frame: its browser drops the XSRF cookie, which gives "AxiosError 403" on upload.
+# Only use on a trusted network / localhost.
+[server]
+enableXsrfProtection = false
+enableCORS = false
+
 # Dark "control room" theme for app.py. Fonts load from Google Fonts and fall back to system fonts offline.
 [theme]
 base = "dark"
