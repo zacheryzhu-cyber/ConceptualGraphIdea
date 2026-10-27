@@ -4,33 +4,36 @@
 enableXsrfProtection = false
 enableCORS = false
 
-# Dark "control room" theme for app.py. Fonts load from Google Fonts and fall back to system fonts offline.
+[client]
+toolbarMode = "minimal"
+
+# Siemens iX dark theme for app.py (see ui_style.py). Siemens Sans is used when installed; falls back to system fonts.
 [theme]
 base = "dark"
-primaryColor = "#22d3ee"
-backgroundColor = "#060a13"
-secondaryBackgroundColor = "#0e1626"
-textColor = "#dbe4f0"
-linkColor = "#67e8f9"
-borderColor = "#1c2a40"
-dataframeBorderColor = "#1c2a40"
-dataframeHeaderBackgroundColor = "#0b1322"
-codeBackgroundColor = "#0b1322"
+primaryColor = "#00ffb9"
+backgroundColor = "#000028"
+secondaryBackgroundColor = "#0f1b3f"
+textColor = "#ffffff"
+linkColor = "#00ffb9"
+borderColor = "#2b3a63"
+dataframeBorderColor = "#2b3a63"
+dataframeHeaderBackgroundColor = "#0f1b3f"
+codeBackgroundColor = "#0f1b3f"
 showWidgetBorder = true
-baseRadius = "10px"
-buttonRadius = "8px"
-blueColor = "#38bdf8"
-greenColor = "#34d399"
-yellowColor = "#fbbf24"
-orangeColor = "#fb923c"
-redColor = "#f87171"
-violetColor = "#c084fc"
-font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap, sans-serif"
-headingFont = "Space Grotesk:https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&display=swap, sans-serif"
-codeFont = "JetBrains Mono:https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap, monospace"
-chartCategoricalColors = ["#22d3ee", "#fbbf24", "#c084fc", "#34d399", "#f472b6", "#38bdf8", "#fb923c"]
+baseRadius = "4px"
+buttonRadius = "4px"
+blueColor = "#00bedc"
+greenColor = "#00cc00"
+yellowColor = "#ffd732"
+orangeColor = "#ff9200"
+redColor = "#ff2640"
+violetColor = "#a78bfa"
+font = "Siemens Sans, Segoe UI, Arial, sans-serif"
+headingFont = "Siemens Sans, Segoe UI, Arial, sans-serif"
+codeFont = "Consolas, monospace"
+chartCategoricalColors = ["#00ffb9", "#ffd732", "#00bedc", "#a78bfa", "#ff9200", "#ff6b9d", "#00cc00"]
 
 [theme.sidebar]
-backgroundColor = "#080e1a"
-secondaryBackgroundColor = "#0e1626"
-borderColor = "#1c2a40"
+backgroundColor = "#0f1b3f"
+secondaryBackgroundColor = "#000028"
+borderColor = "#2b3a63"

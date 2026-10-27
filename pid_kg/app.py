@@ -36,7 +36,7 @@ st.set_page_config(page_title="P&ID Knowledge Graph", page_icon="🔗", layout="
 ui.inject()
 st.html("""<style>
 .pk-bar{display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin:-.6rem 0 .4rem}
-.pk-bar h1{margin:0;padding:0;font-size:1.5rem;font-weight:700;letter-spacing:-.02em;line-height:1.1}
+.pk-bar h1{margin:0;padding:0;font-size:1.5rem;font-weight:700;line-height:1.1}
 .pk-bar .pk-chips{margin:0 0 0 auto}
 </style>""")
 
@@ -251,7 +251,7 @@ n_assets = q("MATCH (a:Asset) RETURN count(a) AS n")[0]["n"]
 header([(f"{n_sheets} sheets · {n_assets} assets", "ok" if n_sheets else "wait"),
         ("Neo4j online · " + ("offline test database" if conn[3] else conn[0]), "ok")])
 
-c_opts, c_add, c_gap, c_out = st.columns([1.7, 2.6, 4.2, 1.5])
+c_opts, c_add, c_gap = st.columns([1.7, 2.6, 5.7])
 with c_opts.popover("View options", icon=":material/tune:", use_container_width=True):
     mode = st.radio("Show", ["Whole plant", "Around an asset", "Downstream of an asset", "One sheet"], key="graph_mode")
     level = st.radio("Detail level", gl.LEVELS, key=f"graph_level_{mode}", index=gl.LEVELS.index(DEFAULT_LEVEL[mode]),
@@ -272,10 +272,6 @@ with c_opts.popover("View options", icon=":material/tune:", use_container_width=
             hops = st.slider("Steps out", 1, 6, 2)
 if c_add.button("Add / load DEXPI / PDF", icon=":material/upload_file:", type="primary", use_container_width=True):
     add_dialog()
-with c_out:
-    if st.button("Disconnect", icon=":material/logout:", type="tertiary", help="Back to the Neo4j login panel"):
-        del st.session_state["conn"]
-        st.rerun()
 
 for kind, text in st.session_state.pop("load_flash", []):
     (st.success if kind == "ok" else st.error)(text)
